@@ -1,0 +1,7 @@
+Gemfile.lock
+.DS_Store
+*.log
+temp.sqlite
+log/
+coverage/
+capybara-*.html
