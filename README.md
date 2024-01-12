@@ -17,7 +17,9 @@ If you **encounter technical problems or issues**, you'll need to consult the [T
 * **Teams 1-26** need to go to **Computer Room 3** on the second floor, and follow the [seating plan for CR3](cr3-seating-plan.pdf).
 * **Teams 27-53** need to go to **Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor, and follow the [seating plan for CR5](cr5-seating-plan.pdf).
 
-**Supervisor meetings** will occur for each team on Tuesday afternoons.  
+**Supervisor meetings** will occur for each team on Tuesday afternoons between
+1-3pm in **Computer Room 5** (formerly known as the Mindsphere lounge) on the
+ground floor of the Diamond.
 
 **Materials** for the module can all be found in this repository, which consists of directories corresponding to content for each week. Files will be added as we proceed through the module, so ensure that you regularly do a `git pull`.
 
