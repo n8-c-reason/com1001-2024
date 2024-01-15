@@ -23,7 +23,7 @@ supervisor, or wait until your next meeting with them.
 
 ## 1. How to Ask Questions (Or, How to Find Your Own Answers) 
 
-There are no stupid questions, as the saying goes, but there are definitely *lazy* ones. Sometimes the answer to a question you may have has already been answered in lectures and can easily be found in the slides. But as a general rule, before asking a question, try to find the answer yourself. Finding your own answers is an important skill that will be invaluable in the rest of your degree as well as your future career. This is not just about honing your skills in quickly finding the information you need, but also how to resolve problems and debug issues with code yourself. 
+There are no stupid questions, as the saying goes, but there are definitely *lazy* ones. Sometimes the answer to a question you may have has already been answered in lectures and can easily be found in the slides. But as a general rule, before asking a question, try to find the answer yourself. Finding your own answers is an important skill that will be invaluable in the rest of your degree as well as your future career. This is not just about honing your skills in quickly finding the information you need, but also how to resolve problems and debug issues with code $${\color{red}yourself}$$. 
 
 ### Finding Your Own Answers: Some Tips 
 
