@@ -96,6 +96,8 @@ by the user. Try disabling these and trying Codio again.
 
 Here is my experience (and remedies) for certain browsers:
 
+* **Brave** – doesn't work. Remedy: Go to your browser settings, and select "Privacy & Security". Then go to "Cookies and other site data". Under "Sites that can always use cookies", add "codio.com" and "codio.io" separately. Ensure the "Including third-party cookies on this site" checkbox is selected. 
+* **Chrome** – works fine.
 * **Firefox** – doesn't work. Remedy: Go to your browser settings, and select "Privacy & Security". Under "Enhanced Tracking Protection" click the "Manage Exceptions" button. Add "codio.com" and "codio.io". Click "Save Changes". Now restart your browser and log back into Codio. 
 * **Safari** – works fine.
   
