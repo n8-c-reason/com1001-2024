@@ -13,12 +13,10 @@ the "edit" menu on most browsers).
 
 If your issue doesn't seem to appear on the page, check "[How to Ask
 Questions](#questions)" first, before asking a question. If you think an issue
-needs to be added to this FAQ, [contact me](mailto:p.mcminn@sheffield.ac.uk).
+needs to be added to this FAQ, [contact Phil McMinn](mailto:p.mcminn@sheffield.ac.uk).
 
-<a id="questions"></a>
-### What this FAQ covers
+Note that this FAQ covers technical issues only! 
 
-This FAQ covers technical issues only!  
 <!--
 **If you're experiencing a team issue, or
 have a question about the team project**, check out the check the [Assignment
