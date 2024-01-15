@@ -6,7 +6,7 @@ This FAQ is organised into the following sections. Some questions fit more than 
    Questions](#1-how-to-ask-questions-or-how-to-find-your-own-answers) 
 2. [Problems Running Code](#2-problems-running-code) 
 3. [Problems with Git](#3-problems-with-git) 
-4. [Getting the Most Out of Codio](#4-getting-the-most-out-of-codio)
+4. [Using Codio](#4-using-codio)
 
 If you're certain your issue doesn't seem to appear on the page, check the next section "[How to Ask Questions](#questions)", first. 
 
@@ -186,7 +186,7 @@ Other possible reasons:
 
 * There's been an administrative error, and you don't have the necessary permissions to clone your team's repository. This is the most unlikeliest of the possibilities, so check you have done all of the above first. However, it does happen from time to time, so if you're still experiencing problems, this is one of the few occasions where you can [send me – Phil McMinn – an email](mailto:p.mcminn@sheffield.ac.uk). Make sure that you include your Sheffield computer account username in the body of the email.
 
-## 4. Getting the Most Out of Codio
+## 4. Using Codio
 
 ### I don't really like Codio. Can I use my own machine to develop on instead?
 
