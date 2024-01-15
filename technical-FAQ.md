@@ -200,32 +200,7 @@ Furthermore, since the team project will be marked using Codio, everything needs
 
 ### I've heard it's possible to use VSCode on Codio. Is that true?
 
-Yes! Visual Studio Code [(VSCode)](https://code.visualstudio.com) is a popular
-text editor and IDE for many languages, and may be used in a web browser on
-Codio itself. Assuming you have followed in the instructions in the first
-lecture and have everything setup in Codio, then you will have a Codio box
-already up and running. In Codio, go to "Tools", then "Install Software". Scroll
-down the list and select "VSCode". VSCode will be now available at a special URL
-in your web browser for use with your Codio files. The URL you need to access it
-depends on your Codio box name. Your Codio box name is the subdomain of your
-Codio Box domain, which Codio tells you in the preamble of every Terminal
-session that you start. For example, my Terminal session prints out the
-following:
-
-```
- *
- * Welcome to the Codio Terminal!
- *
- * https://docs.codio.com/project/ide/boxes/#overview
- *
- * Your Codio Box domain is: everton-fan.codio.io
- *
-```
-
-This means my box name is ``everton-fan``. This means my URL for VSCode, if I
-installed it, would be https://everton-fan-4000.codio.io. Note that this URL is
-essentially the same as the Base URL of your web applications launched from
-Codio (as discussed in lectures), but using port 4000.
+Yes! See the [final section in the Gettings Started instructions](getting-started/README.md#using-vscode).
 
 ### Is it possible to SSH into Codio, and therefore use my own machine to develop?
 
