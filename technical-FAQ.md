@@ -100,7 +100,7 @@ Sometimes Codio's cookies, which track whether a user is logged in or not, are b
 * **Firefox** – doesn't work. Remedy: Go to your browser settings, and select "Privacy & Security". Under "Enhanced Tracking Protection" click the "Manage Exceptions" button. Add `codio.com` and `codio.io`. Click "Save Changes". Now close and re-open your browser, and log back into Codio. 
 * **Safari** – works fine.
 
-Another reasons can be ad-blocking plugins that have been installed by you, the user. Try disabling these or making exceptions for the sites codio.com and codio.io. 
+Another reasons can be ad-blocking plugins that have been installed by you, the user. Try disabling these or making exceptions for the sites `codio.com` and `codio.io`. 
 
 If the issue persists, try using another browser for your Codio work (e.g., one in the list above that works). This is usually enough to resolve the problem – I've never found that this issue is a machine-specific problem. 
 
@@ -110,30 +110,29 @@ This is likely because you're not using the `sinatra` command to run your code a
 
 ### When I try to do a `gem install`, Codio tells me I do not have "write permissions".
 
-That's because you should be using `bundler` instead. If you're trying to run
-one of the code examples from the lectures, see the answer to the [question on
-Bundler
-above](#when-i-try-to-run-one-of-the-examples-from-the-lectures-in-the-code-directory-of-this-repository-it-crashes-with-an-error).
-If it's for your own project, you should write a `Gemfile` and use that to run
-`bundler` instead. See the code examples in this repository for how to do that.  
+That's because you should be using `bundler` instead. If you're trying to run one of the code examples from the lectures, see the answer to the [question on Bundler above](#when-i-try-to-run-one-of-the-examples-from-the-lectures-in-the-code-directory-of-this-repository-it-crashes-with-an-error). If it's for your own project, you should write a `Gemfile` and use that to run `bundler` instead. See the code examples in this repository for how to do that.  
 
 ### I can't see the changes I made to my Sinatra application.
 
-You have to stop (go to the terminal window and press "control" and "c") and
-then restart the web server (triggered by the `sinatra` command you used to
-start your application) each time you change any Ruby code in it (an exception
-is `.erb` files, changes for which can be seen without stopping and restarting).
+You have to stop (go to the terminal window and press "control" and "c") and then restart the web server (triggered by the `sinatra` command you used to start your application) each time you change any Ruby code in it (an exception is `.erb` files, changes for which can be seen without stopping and restarting).
 
-This is a tedious thing to have to keep doing during development! So I recommend
-using `sinatra/reloader`, as I showed you in the [Sinatra
-Basics](slides/1-3-sinatra-basics.pdf) lecture (see the last slide). Using
-`sinatra/reloader` means that Sinatra will listen out for changes to your Ruby
-files and reload them when you make changes, meaning that you do not have to
-keep stopping and restarting the web server each time you make a change to your
-project.
+This is a tedious thing to have to keep doing during development! So I recommend using `rerun`, as demonstrated in lectures. 
 
-Note that you don't need to restart the web server if you only made changes to
-view files. 
+First of all, you'll need to install the gem with 
+
+```
+gem install rerun
+```
+
+Then, prefix the `sinatra` command with `rerun`, for example as follows:
+
+```
+rerun sinatra hello-world
+```
+
+The rerun facility will keep checking for changes to your Ruby files and reload them when you make changes, meaning that you do not have to keep stopping and restarting the web server each time you make a change to your project.
+
+Note that you don't need to restart the web server if you only made changes to view files. 
 
 ### I can't see the changes I made to my CSS / my CSS is not updating. 
 
