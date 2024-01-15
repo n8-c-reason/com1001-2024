@@ -114,13 +114,7 @@ You have to stop (go to the terminal window and press "control" and "c") and the
 
 This is a tedious thing to have to keep doing during development! So I recommend using `rerun`, as demonstrated in lectures. 
 
-First of all, you'll need to install the gem with 
-
-```
-gem install rerun
-```
-
-Then, prefix the `sinatra` command with `rerun`, for example as follows:
+To do this prefix the `sinatra` command with `rerun`, for example as follows:
 
 ```
 rerun sinatra hello-world
@@ -129,6 +123,7 @@ rerun sinatra hello-world
 The rerun facility will keep checking for changes to your Ruby files and reload them when you make changes, meaning that you do not have to keep stopping and restarting the web server each time you make a change to your project.
 
 Note that you don't need to restart the web server if you only made changes to view files. 
+
 
 ### I can't see the changes I made to my CSS / my CSS is not updating. 
 
