@@ -102,7 +102,7 @@ Sometimes Codio's cookies, which track whether a user is logged in or not, are b
 
 Another reasons can be ad-blocking plugins that have been installed by you, the user. Try disabling these or making exceptions for the sites `codio.com` and `codio.io`. 
 
-If the issue persists, try using another browser for your Codio work (e.g., one in the list above that works). This is usually enough to resolve the problem – I've never found that this issue is a machine-specific problem. 
+If the issue persists, try using another browser for your Codio work (e.g., one in the list above that works). This is usually enough to resolve the problem – I've never found this issue to be a machine-specific problem. 
 
 ### When I run my web application or an example, Codio displays a "502 Bad Gateway" error instead of the proper web page.
 
