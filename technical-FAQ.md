@@ -59,9 +59,9 @@ To ensure you get a timely answer that resolves your problem, ensure you follow 
 
 * **If your demonstrator cannot help you**, post a question in the appropriate forum in the [Discussion Board](https://vle.shef.ac.uk/webapps/discussionboard/do/conference?toggle_mode=edit&action=list_forums&course_id=_107947_1&nav=discussion_board_entry&mode=cpview) on Blackboard. 
   
-However, *don't post large chunks of your project's code in the forum*. If your problem only involves one or two lines of code that aren't important, that is fine; or, you might be able to obfuscate the code to demonstrate the same problem, but without using code directly lifted from your project.
+  However, *don't post large chunks of your project's code in the forum*. If your problem only involves one or two lines of code that aren't important, that is fine; or, you might be able to obfuscate the code to demonstrate the same problem, but without using code directly lifted from your project.
   
-If your problem involves large segments or involves the whole project, then leave your team number and ensure you've pushed everything to the main branch of your repository (along with a detailed explanation of the problem you're experiencing). We can then clone your code and try to replicate the issue ourselves. 
+  If your problem involves large segments or involves the whole project, then leave your team number and ensure you've pushed everything to the main branch of your repository (along with a detailed explanation of the problem you're experiencing). We can then clone your code and try to replicate the issue ourselves. 
 
 * **Please don't email staff about technical issues directly.** Although staff email addresses are listed on Blackboard, they're only there as a *last resort*. It is highly unlikely that you won't get a response using one of the methods above.
 
