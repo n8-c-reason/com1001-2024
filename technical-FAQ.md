@@ -18,11 +18,14 @@ needs to be added to this FAQ, [contact me](mailto:p.mcminn@sheffield.ac.uk).
 <a id="questions"></a>
 ### What this FAQ covers
 
-This FAQ covers technical issues only. **If you're experiencing a team issue, or
+This FAQ covers technical issues only!  
+<!--
+**If you're experiencing a team issue, or
 have a question about the team project**, check out the check the [Assignment
 FAQ](https://vle.shef.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_5820338_1&course_id=_96428_1&mode=reset)
 on Blackboard. If this does not answer your question, you should contact your
 supervisor, or wait until your next meeting with them.
+-->
 
 ## 1. How to Ask Questions (Or, How to Find Your Own Answers) 
 
