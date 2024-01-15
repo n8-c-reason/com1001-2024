@@ -108,10 +108,6 @@ If the issue persists, try using another browser for your Codio work (e.g., one 
 
 This is likely because you're not using the `sinatra` command to run your code and using the `ruby` command instead. Make sure you're using the `sinatra` command.
 
-### When I try to do a `gem install`, Codio tells me I do not have "write permissions".
-
-That's because you should be using `bundler` instead. If you're trying to run one of the code examples from the lectures, see the answer to the [question on Bundler above](#when-i-try-to-run-one-of-the-examples-from-the-lectures-in-the-code-directory-of-this-repository-it-crashes-with-an-error). If it's for your own project, you should write a `Gemfile` and use that to run `bundler` instead. See the code examples in this repository for how to do that.  
-
 ### I can't see the changes I made to my Sinatra application.
 
 You have to stop (go to the terminal window and press "control" and "c") and then restart the web server (triggered by the `sinatra` command you used to start your application) each time you change any Ruby code in it (an exception is `.erb` files, changes for which can be seen without stopping and restarting).
@@ -136,137 +132,71 @@ Note that you don't need to restart the web server if you only made changes to v
 
 ### I can't see the changes I made to my CSS / my CSS is not updating. 
 
-Ensure that your browser is not caching your CSS files (i.e., using a stored,
-out of date copy, rather than a fresh version from your web application).
+Ensure that your browser is not caching your CSS files (i.e., using a stored, out of date copy, rather than a fresh version from your web application).
 
-Clear out your browser cache, or switch off caching altogether. Google how to do
-this for the browser you're using.
+Clear out your browser cache, or switch off caching altogether. Google how to do this for the browser you're using.
 
 ### Our team project works for my teammates but crashes with an error on my Codio box.
 
-These kinds of issues ("it works for my teammates but not for me") are almost
-always (99% of the time) to do with differences in the gems that are installed
-on different Codio boxes. If you think about it logically, what else could be
-the difference in setup between your Codio box and theirs, since each box is
-practically identical in terms of its configuration at the beginning. When
-trying to debug, try to think about differences between "when it works" and
-"when it doesn't". 
+These kinds of issues ("it works for my teammates but not for me") are almost always (99% of the time) to do with differences in the gems that are installed on different Codio boxes. If you think about it logically, what else could be the difference in setup between your Codio box and theirs, since each box is practically identical in terms of its configuration at the beginning. (When trying to debug, try to think about differences between "when it works" and "when it doesn't".)
 
-If you issue a `gem list` command at the terminal, you will be able to see a
-list of gems installed on your box, and you can compare it with that of your
-teammates'. (The list can be quite long!)
+If you issue a `gem list` command at the terminal, you will be able to see a list of gems installed on your box, and you can compare it with that of your teammates'. (The list can be quite long!)
 
-You can also use the `reset_gems` command to reset the gems installed on your
-box.
+You can also use the `reset_gems` command to reset the gems installed on your box.
 
-Make sure that your project has all the gems it needs by keeping your `Gemfile`
-up to date. This is the key to avoiding these kinds of problems in the first
-place. 
+Make sure that your project has all the gems it needs by keeping your `Gemfile` up to date. This is the key to avoiding these kinds of problems in the first place. 
 
 ### I'm getting an error message `cannot load such file -- sequel (LoadError)`. I have the sequel gem installed, so I'm confused as to what is going on.
 
-You need the `sqlite3` gem installed as well. Make sure both the `sequel` and
-the `sqlite3` gems are part of your project's `Gemfile`.
+You need the `sqlite3` gem installed as well. Make sure both the `sequel` and the `sqlite3` gems are part of your project's `Gemfile`.
 
 ### What are the gems we will need for the team project?
 
-Depending on how far through the lectures we are, we may not have encountered
-all of these, so don't worry about the ones you don't recognise (yet):
+Depending on how far through the lectures we are, we may not have encountered all of these, so don't worry about the ones you don't recognise (yet):
 
-* **Core gems** include `sinatra`, `puma` (the web server), `require_all` (for
-  automatically "requiring" all Ruby files in a directory), `rubocop` (for
-  coding standards and style checking). 
+* **Core gems** include `sinatra`, `puma` (the web server), `require_all` (for automatically "requiring" all Ruby files in a directory), `rubocop` (for coding standards and style checking). 
 
-* For the **database**, you'll need at least `sequel` and `sqlite3`. Don't
-  forget the `sqlite3` gem, otherwise you'll get some confusing error messages.  
+* For the **database**, you'll need at least `sequel` and `sqlite3`. Don't forget the `sqlite3` gem, otherwise you'll get some confusing error messages.  
 
-* For **encrypting user data** (i.e., to preserve data confidentiality), you'll
-  need `openssl`.
+* For **encrypting user data** (i.e., to preserve data confidentiality), you'll need `openssl`.
 
-* For **code style checking**, you'll need `rubocop`. To extend style checking
-  to RSpec and Sequel code, you'll also need `rubocop-rspec` and
-  `rubocop-sequel` respectively.
+* For **code style checking**, you'll need `rubocop`. To extend style checking to RSpec and Sequel code, you'll also need `rubocop-rspec` and `rubocop-sequel` respectively.
 
-* For **testing**, you'll need at least `capybara` (for end-to-end tests),
-  `rack-test`, `rspec`, and `simplecov` (for coverage tracking).
+* For **testing**, you'll need at least `capybara` (for end-to-end tests), `rack-test`, `rspec`, and `simplecov` (for coverage tracking).
 
-Note that some of these gems may already be installed on a fresh Codio box. It's
-good practice to include them in your Gemfile regardless for
-development/deployment environments where they aren't.
+Note that some of these gems may already be installed on a fresh Codio box. It's good practice to include them in your Gemfile regardless for development/deployment environments where they aren't.
 
 ### When testing, my application seems to behave differently with Capybara compared to when it's being used for real. 
 
-This is often to do with differences between the "test" database and the
-"production" database. If certain data is not present in the test database, the
-application may behave differently. If you're experiencing some differing
-behaviour, the first thing you can check is the log files produced by Sequel.
-Check the queries are the same when the application is being run in "production"
-mode compared to when it is being tested.
-
+This is often to do with differences between the "test" database and the "production" database. If certain data is not present in the test database, the application may behave differently. If you're experiencing some differing behaviour, the first thing you can check is the log files produced by Sequel. Check the queries are the same when the application is being run in "production" mode compared to when it is being tested.
 
 ## 3. Problems with Git
 
 ### I cannot clone my team's repository.
 
-You keep getting asked for your password, but you're getting error messages.
-This is because GitLab uses SSH keys to authenticate you rather than passwords.
-If you're being asked for your password, it's probably because you did not set
-up GitLab with your Codio SSH keys last semester. That is, you didn't complete
-both parts of Unit 8, which is about Git. I'd strongly recommend you go back and
-do both of these units, because Git is very important this semester.
+You keep getting asked for your password, but you're getting error messages. This is because GitLab uses SSH keys to authenticate you rather than passwords. If you're being asked for your password, it's probably because you did not set up GitLab with your Codio SSH keys last semester. That is, you didn't complete both parts of Unit 8, which is about Git. I'd strongly recommend you go back and do both of these units, because Git is very important this semester.
 
-To set up your SSH keys, sign into Codio, then click your username in the bottom
-left profile. Under "My Account", there should be a menu item called "SSH Keys".
-If you click this link, you'll be taken to a page with a grey box at the top,
-with your public SSH key in it. Ensure that you select and copy the entire
-contents of this box (and *only* the contents of the box). Now, log into Gitlab
-(https://git.shefcompsci.org). Click the icon in the top right of the page to
-reveal a drop-down box, and select "Preferences". Select "SSH Keys" from the
-sidebar that appears. In the big text box that appears, paste your SSH key. In
-the title box, enter "Codio". Then click the "Add key" button.
+To set up your SSH keys, sign into Codio, then click your username in the bottom left profile. Under "My Account", there should be a menu item called "SSH Keys". If you click this link, you'll be taken to a page with a grey box at the top, with your public SSH key in it. Ensure that you select and copy the entire contents of this box (and *only* the contents of the box). Now, log into Gitlab (https://git.shefcompsci.org). Click the icon in the top right of the page to reveal a drop-down box, and select "Preferences". Select "SSH Keys" from the sidebar that appears. In the big text box that appears, paste your SSH key. In the title box, enter "Codio". Then click the "Add key" button.
 
 Other possible reasons:
 
-* You're team number is 1-9 and you're not using a zero before your team number
-  in the `git clone` commmand. Your repository uses two digit team numbers,
-  so `01`, `02`, etc.
+* You're team number is 1-9 and you're not using a zero before your team number in the `git clone` commmand. Your repository uses two digit team numbers, so `01`, `02`, etc.
 
 * You're trying to clone another team's repository. Check your team number!
 
-* There's been an administrative error, and you don't have the necessary
-  permissions to clone your team's repository. This is the most unlikeliest of
-  the possibilities, so check you have done all of the above first. However, it
-  does happen from time to time, so if you're still experiencing problems, this
-  is one of the few occasions where you can [send me – Phil McMinn – an
-  email](mailto:p.mcminn@sheffield.ac.uk). Make sure that you include your
-  Sheffield computer account username in the body of the email.
+* There's been an administrative error, and you don't have the necessary permissions to clone your team's repository. This is the most unlikeliest of the possibilities, so check you have done all of the above first. However, it does happen from time to time, so if you're still experiencing problems, this is one of the few occasions where you can [send me – Phil McMinn – an email](mailto:p.mcminn@sheffield.ac.uk). Make sure that you include your Sheffield computer account username in the body of the email.
 
 ## 4. Getting the Most Out of Codio
 
 ### I don't really like Codio. Can I use my own machine to develop on instead?
 
-Codio provides a standardised environment to students that removes many issues
-related to incompatibilities between different operating systems and setups.
+Codio provides a standardised environment to students that removes many issues related to incompatibilities between different operating systems and setups.
 
-This is to your benefit – firstly, you won't have to debug these kinds of issues
-across the various machine setups your team members may have, and secondly,
-because Codio makes it easy for *us to help you* if you encounter problems with
-your code. 
+This is to your benefit – firstly, you won't have to debug these kinds of issues across the various machine setups your team members may have, and secondly, because Codio makes it easy for *us to help you* if you encounter problems with your code. 
 
-It's not *impossible* to develop everything on your own machine. However, this
-means you installing Ruby and getting everything working yourself, and we are
-unable to provide support for students' individual machines, since fixing
-individual machine setups is very time consuming and our priority is helping
-with programming questions and issues.  
+It's not impossible though to develop everything on your own machine. However, this means you installing Ruby and getting everything working yourself. We are unable to provide support for students' individual machines, since fixing individual machine setups is very time consuming and our priority is helping with programming questions and issues.  
 
-Furthermore, since the team project will be marked using Codio, everything needs
-to work on Codio, because the markers will not be debugging your code to get it
-to run. This means that if you use your own machine, you will need to get the
-same versions of Ruby, SQLite, and all the gems that you're using, ensuring all
-behaviours are identical across different machines. 
-
-There are ways to use Codio in a way that is friendlier to more experienced
-programmers, however – see the answer to the next question. 
+Furthermore, since the team project will be marked using Codio, everything needs to work on Codio, because the markers will not be debugging your code to get it to run. This means that if you use your own machine, you will need to get the same versions of Ruby, SQLite, and all the gems that you're using, ensuring all behaviours are identical across different machines. 
 
 ### I've heard it's possible to use VSCode on Codio. Is that true?
 
@@ -299,13 +229,4 @@ Codio (as discussed in lectures), but using port 4000.
 
 ### Is it possible to SSH into Codio, and therefore use my own machine to develop?
 
-Yes, but it's potentially tricky to setup.  SSHing into your Codio box from your
-text editor/IDE on your own machine gives you the best of both worlds — the use
-of your preferred development environment, but with the ease of Ruby already
-being set up for you on Codio, and you using the same platform as everyone else.
-However, you will need to navigate the instructions for doing this yourself —
-again, we are unable to provide assistance. See
-https://docs.codio.com/common/develop/ide/boxes/access.html. Instructions for
-your text editor/IDE vary of course, depending on what you're using — here are
-some useful pointers for VSCode, as an example:
-https://code.visualstudio.com/docs/remote/ssh.
+Yes, but it's potentially tricky to setup.  SSHing into your Codio box from your text editor/IDE on your own machine gives you the best of both worlds — the use of your preferred development environment, but with the ease of Ruby already being set up for you on Codio, and you using the same platform as everyone else. However, you will need to navigate the instructions for doing this yourself — again, we are unable to provide assistance. See https://docs.codio.com/common/develop/ide/boxes/access.html. Instructions for your text editor/IDE vary of course, depending on what you're using — here are some useful pointers for VSCode, as an example: https://code.visualstudio.com/docs/remote/ssh.
