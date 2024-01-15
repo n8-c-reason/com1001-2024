@@ -71,7 +71,7 @@ Naturally, when asking a question, help us to help you by including as much rele
 
 ### When I try to run `sinatra` I get a `sinatra: command not found` message at the terminal, and my code refuses to run.
 
-It would seem that you haven't set your Codio project up in the correct way – the way specified in the [Getting Started Instructions](./getting-started).
+It would seem that you haven't set your Codio project up in the correct way – the way specified in the [Getting Started Instructions](./getting-started/README.md).
 
 Note that you have to do this for every Codio project/box that you intend to run Sinatra projects with, including development and demonstration of your project.
 
