@@ -89,26 +89,24 @@ You may need to refresh your memory on gems and Gemfiles. If so, go back to the 
 
 ### When I run my web application or an example, Codio displays a "401 Authorization Required" message instead of the proper web page.
 
-This is because Codio doesn't think you're logged into Codio on the web browser you're trying to use. Codio appears to use cookies between the domains codio.com and codio.io to manage this. 
+This is because Codio doesn't think you're logged into Codio on the web browser you're trying to use. 
 
 First, open a tab and check you are indeed logged in. If you are, try clearing out your cookies in your browser settings, close and re-open your browser, log into Codio and try again. 
 
-Sometimes Codio's cookies are blocked by browser privacy mechanisms that are on by default. Here is my experience (and remedies) for certain browsers:
+Sometimes Codio's cookies, which track whether a user is logged in or not, are blocked by a browser's default privacy mechanisms. Here are my experiences (and remedies) with certain browsers:
 
-* **Brave** – doesn't work. Remedy: Go to your browser settings, and select "Privacy & Security". Then go to "Cookies and other site data". Under "Sites that can always use cookies", add "codio.com" and "codio.io" separately. Ensure the "Including third-party cookies on this site" checkbox is selected.  Now close and re-open your browser, and log back into Codio. 
+* **Brave** – doesn't work. Remedy: Go to your browser settings, and select "Privacy & Security". Then go to "Cookies and other site data". Under "Sites that can always use cookies", add `codio.com` and `codio.io` separately. Ensure the "Including third-party cookies on this site" checkbox is selected.  Now close and re-open your browser, and log back into Codio. 
 * **Chrome** – works fine.
-* **Firefox** – doesn't work. Remedy: Go to your browser settings, and select "Privacy & Security". Under "Enhanced Tracking Protection" click the "Manage Exceptions" button. Add "codio.com" and "codio.io". Click "Save Changes". Now close and re-open your browser, and log back into Codio. 
+* **Firefox** – doesn't work. Remedy: Go to your browser settings, and select "Privacy & Security". Under "Enhanced Tracking Protection" click the "Manage Exceptions" button. Add `codio.com` and `codio.io`. Click "Save Changes". Now close and re-open your browser, and log back into Codio. 
 * **Safari** – works fine.
 
 Another reasons can be ad-blocking plugins that have been installed by you, the user. Try disabling these or making exceptions for the sites codio.com and codio.io. 
 
-If the issue persists, try using another browser for your Codio work (e.g., one in the list above that works). This usually resolves the problem, since I've not found this issue to be a machine-specific problem. 
+If the issue persists, try using another browser for your Codio work (e.g., one in the list above that works). This is usually enough to resolve the problem – I've never found that this issue is a machine-specific problem. 
 
 ### When I run my web application or an example, Codio displays a "502 Bad Gateway" error instead of the proper web page.
 
-This is likely because you're not using the `sinatra` command to run your code
-and using the `ruby` command instead. Make sure you're using the `sinatra`
-command!
+This is likely because you're not using the `sinatra` command to run your code and using the `ruby` command instead. Make sure you're using the `sinatra` command.
 
 ### When I try to do a `gem install`, Codio tells me I do not have "write permissions".
 
