@@ -1,9 +1,6 @@
 # Technical FAQ
 
-This FAQ is organised into the following sections. Some problems fit more than
-one section, so ensure you've properly checked if you don't think your question
-is answered (search the text of the page using the "find" option, which is under
-the "edit" menu on most browsers).
+This FAQ is organised into the following sections. Some questions fit more than one section, so ensure you've properly checked the whole FAQ in case you don't see it.
 
 1. [How to Ask
    Questions](#1-how-to-ask-questions-or-how-to-find-your-own-answers) 
@@ -11,13 +8,12 @@ the "edit" menu on most browsers).
 3. [Problems with Git](#3-problems-with-git) 
 4. [Getting the Most Out of Codio](#4-getting-the-most-out-of-codio)
 
-If your issue doesn't seem to appear on the page, check "[How to Ask
-Questions](#questions)" first, before asking a question. If you think an issue
-needs to be added to this FAQ, [contact Phil McMinn](mailto:p.mcminn@sheffield.ac.uk).
+If you're certain your issue doesn't seem to appear on the page, check the next section "[How to Ask Questions](#questions)", first. 
 
-Note that this FAQ covers technical issues only! 
+If you think an issue needs to be added to this FAQ, [contact Phil McMinn](mailto:p.mcminn@sheffield.ac.uk).
 
 <!--
+Note that this FAQ covers technical issues only.
 **If you're experiencing a team issue, or
 have a question about the team project**, check out the check the [Assignment
 FAQ](https://vle.shef.ac.uk/webapps/blackboard/execute/content/blankPage?cmd=view&content_id=_5820338_1&course_id=_96428_1&mode=reset)
@@ -27,67 +23,42 @@ supervisor, or wait until your next meeting with them.
 
 ## 1. How to Ask Questions (Or, How to Find Your Own Answers) 
 
-I don't believe that there are stupid questions, but there are definitely *lazy*
-ones. It's not that lazy questions are annoying – that's not the issue here –
-it's that you're actually denying yourself a learning opportunity by not putting
-in the effort to find the answer yourself. This is not just about honing your
-skills in quickly finding the information you need, but also how to resolve
-problems and debug issues with code yourself. 
-
-Before asking a question, try to find the answer yourself. Finding your own
-answers is an important skill that will be invaluable in the rest of your
-degree, and also your future career. So start to develop it now! 
+There are no stupid questions, as the saying goes, but there are definitely *lazy* ones. Sometimes the answer to a question you may have has already been answered in lectures and can easily be found in the slides. But as a general rule, before asking a question, try to find the answer yourself. Finding your own answers is an important skill that will be invaluable in the rest of your degree as well as your future career. This is not just about honing your skills in quickly finding the information you need, but also how to resolve problems and debug issues with code yourself. 
 
 ### Finding Your Own Answers: Some Tips 
 
-1. **Check the lecture slides**. Seems obvious. But you'd be surprised how many
-   questions we get that are answered by a lecture slide that covered what you
-   wanted to know. There may be a slide or an example that you missed that
-   already explains something you wanted to know about or demonstrates some code
-   similar to what you want to do. Look there first. 
+1. **Check the lecture slides**. Seems obvious. But you'd be surprised how many questions we get that are answered by a lecture slide that covered what you wanted to know. There may be a slide or an example that you missed that already explains something you wanted to know about or demonstrates some code similar to what you want to do. Look there first!
 
-2. **Check this FAQ**. To save time reading through the entire FAQ, use the
-   "Find" feature in your browser to search for certain words appearing on the
-   page to do with your query (e.g. "Git", "Capybara", etc.)
+2. **Check this FAQ**. To save time reading through the entire FAQ, use the "Find" feature in your browser to search for certain words appearing on the page to do with your query (e.g. "Git", "Capybara", etc.) The "Find" feature is normally a menu item in the "Edit" menu.
 
-3. **Check the discussion forums on Blackboard** to see if your question has
-    already been answered. If it hasn't, don't post your own question just yet.
-    There are more steps to try first.
+3. **Check the discussion forums on Blackboard** to see if your question has already been answered. If it hasn't, don't post your own question just yet. There are more steps to try first.
 
 4. **Check the docs**. Your question may be answered by the documentation for
    [Sinatra](http://sinatrarb.com/documentation.html),
-   [SQLite](https://www.sqlite.org/docs.html) (see also [SQLite's SQL
-   docs](https://www.sqlite.org/lang.html)),
-   [Sequel](https://sequel.jeremyevans.net/documentation.html) (see also
-   [Sequel's GitHub page](https://github.com/jeremyevans/sequel), which has lots
-   of handy examples), [RSpec](https://relishapp.com/rspec), and
-   [Capybara](https://rubydoc.info/github/teamcapybara/capybara/master) (see
-   also the handy [cheat sheet](https://devhints.io/capybara)).
+   [SQLite](https://www.sqlite.org/docs.html) (see also [SQLite's SQL docs](https://www.sqlite.org/lang.html)),
+   [Sequel](https://sequel.jeremyevans.net/documentation.html) (see also [Sequel's GitHub page]   (https://github.com/jeremyevans/sequel), which has lots of handy examples), 
+   [RSpec](https://relishapp.com/rspec), and
+   [Capybara](https://rubydoc.info/github/teamcapybara/capybara/master) (see also the handy [cheat sheet](https://devhints.io/capybara)).
 
-5. **Use Google**. If you're unsure how to go about googling technical issues,
-   or want to be more effective at using Google to find answers to programming
-   questions, watch this video – "[Art of Googling as a
-   Programmer](https://www.youtube.com/watch?v=JIV7wuihew8)" – for some tips.
-   It's a bit Python-centric, but the principles apply to any programming
-   language on any platform – and pretty much anything technical.
+5. **Use Google**. If you're unsure how to go about googling technical issues, or want to be more effective at using Google to find answers to programming questions, watch this video – "[Art of Googling as a Programmer](https://www.youtube.com/watch?v=JIV7wuihew8)" – for some tips. It's a bit Python-centric, but the principles apply to any programming language on any platform – and pretty much anything technical.
 
-**If all of the above fails, you can ask a question.** See the next section on
-how to go about doing this.
+**If all of the above fails, you can ask a question.** See the next section on how to go about doing this.
 
 ### How Do I Go About Asking Questions?
 
-To ensure you get a timely answer that resolves your problem, ensure you follow
-these steps:
+To ensure you get a timely answer that resolves your problem, ensure you follow these steps:
 
-* **For specific technical questions about your team project**, ask your
-  demonstrator. You can ask in the lab, or via Slack if the issue arises between
+* **For specific technical questions about your team project**, ask your demonstrator.
+
+   <!--
+  You can ask in the lab, or via Slack if the issue arises between
   labs and cannot wait until the next one. Bear in mind that your demonstrators
   are students too. They have assignments and deadlines of their own, so they
   may not respond immediately.
+  -->
 
 * **If your demonstrator cannot help you**, post a question in the appropriate
-  forum in the [Discussion
-  Board](https://vle.shef.ac.uk/webapps/discussionboard/do/conference?toggle_mode=read&action=list_forums&course_id=_96428_1&nav=discussion_board_entry&mode=view)
+  forum in the [Discussion Board]()
   on Blackboard. 
   
   However, *don't post large chunks of your project's code in the forum*. If
