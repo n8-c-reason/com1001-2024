@@ -89,25 +89,20 @@ You may need to refresh your memory on gems and Gemfiles. If so, go back to the 
 
 ### When I run my web application or an example, Codio displays a "401 Authorization Required" message instead of the proper web page.
 
-This is because Codio doesn't think you're logged into Codio on the web browser you're trying to use. Open a tab and check you are indeed logged in. If this doesn't work, try clearing out your cookies, log into Codio and try again. 
+This is because Codio doesn't think you're logged into Codio on the web browser you're trying to use. Codio appears to use cookies between the domains codio.com and codio.io to manage this. 
 
-Another reason can be to do with browser privacy mechanisms or ad-blocking plugins that are either installed by default or
-by the user. Try disabling these and trying Codio again. 
+First, open a tab and check you are indeed logged in. If you are, try clearing out your cookies in your browser settings, close and re-open your browser, log into Codio and try again. 
 
-Here is my experience (and remedies) for certain browsers:
+Sometimes Codio's cookies are blocked by browser privacy mechanisms that are on by default. Here is my experience (and remedies) for certain browsers:
 
 * **Brave** – doesn't work. Remedy: Go to your browser settings, and select "Privacy & Security". Then go to "Cookies and other site data". Under "Sites that can always use cookies", add "codio.com" and "codio.io" separately. Ensure the "Including third-party cookies on this site" checkbox is selected.  Now close and re-open your browser, and log back into Codio. 
 * **Chrome** – works fine.
 * **Firefox** – doesn't work. Remedy: Go to your browser settings, and select "Privacy & Security". Under "Enhanced Tracking Protection" click the "Manage Exceptions" button. Add "codio.com" and "codio.io". Click "Save Changes". Now close and re-open your browser, and log back into Codio. 
 * **Safari** – works fine.
-  
 
-If the issue persists, it's likely an issue with your browser, so try a
-different one. If this still doesn't work, then it *might* be a machine
-setting (although unlikely). In this case, contact me (or try Codio
-support). The university's machines and loanable laptops should always
-work, so this facility should always be available to you, even if you
-cannot run examples with Codio from your own machine. 
+Another reasons can be ad-blocking plugins that have been installed by you, the user. Try disabling these or making exceptions for the sites codio.com and codio.io. 
+
+If the issue persists, try using another browser for your Codio work (e.g., one in the list above that works). This usually resolves the problem, since I've not found this issue to be a machine-specific problem. 
 
 ### When I run my web application or an example, Codio displays a "502 Bad Gateway" error instead of the proper web page.
 
