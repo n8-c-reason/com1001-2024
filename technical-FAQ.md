@@ -50,7 +50,7 @@ To ensure you get a timely answer that resolves your problem, ensure you follow 
 
 * **For specific technical questions about your team project**, ask your demonstrator.
 
-   <!--
+  <!--
   You can ask in the lab, or via Slack if the issue arises between
   labs and cannot wait until the next one. Bear in mind that your demonstrators
   are students too. They have assignments and deadlines of their own, so they
@@ -77,30 +77,28 @@ Note that you have to do this for every Codio project/box that you intend to run
 
 ### When I try to run one of the examples from the lectures in the `code` directory of this repository, it crashes with an error.
 
-This is likely because you need to install the gems for the example first. In the
-terminal, ensure you have changed directory to the one containing the example,
-and type the following:
+This is likely because you need to install the gems for the example first. In the terminal, ensure you have changed directory to the one containing the example, and type the following:
 
 ```
 bundle install
 ```
 
-The gems installed are the ones listed in the `Gemfile` in that directory. (Open
-the file to view what gems these are.)
+The gems installed are the ones listed in the `Gemfile` in that directory. (Open the file to view what gems these are.)
 
-You may need to refresh your memory on gems and Gemfiles. If so, go back to the
-material from the Autumn Semester (in particular, see Unit 7: Ruby Gems). You
-can also try Google of course for more information.
+You may need to refresh your memory on gems and Gemfiles. If so, go back to the material from the Autumn Semester (in particular, see Unit 7: Ruby Gems). You can also try Google of course for more information.
 
 ### When I run my web application or an example, Codio displays a "401 Authorization Required" message instead of the proper web page.
 
-This is because Codio doesn't think you're logged into Codio on the web browser
-you're trying to use. Open a tab and check you are indeed logged in. If this
-doesn't work, try clearing out your cookies, log into Codio and try again. 
+This is because Codio doesn't think you're logged into Codio on the web browser you're trying to use. Open a tab and check you are indeed logged in. If this doesn't work, try clearing out your cookies, log into Codio and try again. 
 
-Another reason can be to do with ad-blocking plugins that are either
-installed by default (this seems to be the case with the Brave browser) or
+Another reason can be to do with browser privacy mechanisms or ad-blocking plugins that are either installed by default or
 by the user. Try disabling these and trying Codio again. 
+
+Here is my experience (and remedies) for certain browsers:
+
+* **Firefox** – doesn't work. Remedy: Go to your browser settings, and select "Privacy & Security". Under "Enhanced Tracking Protection" click the "Manage Exceptions" button. Add "codio.com" and "codio.io". Click "Save Changes". Now restart your browser and log back into Codio. 
+* **Safari** – works fine.
+  
 
 If the issue persists, it's likely an issue with your browser, so try a
 different one. If this still doesn't work, then it *might* be a machine
