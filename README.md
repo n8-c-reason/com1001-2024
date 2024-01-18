@@ -2,11 +2,16 @@
 
 Welcome! This repository code examples, practical sheets, and slides to support the Spring Semester of the COM1001 module "Introduction to Software Engineering" at the University of Sheffield.
 
-## Key Teaching Staff
+Jump to:
+* [Primary Teaching Staff]()
+* [Getting Started]()
+* [Schedule and Materials]()
+
+## Primary Teaching Staff
 
   |<img src=".images/phil.jpg" width="100"/> | <img src=".images/donghwan.jpg" width="100"/>|
   |:----------------------------------------:|:--------------------------------------------:|
-  | [Phil McMinn](https://mcminn.info) <br /> Lectures & Labs | [Donghwan Shin](https://www.dshin.info) <br /> Team Project Lead |
+  | [Phil McMinn](https://mcminn.info) <br /> Lectures & Labs | [Donghwan Shin](https://www.dshin.info) <br /> Team Project |
 
 ## Getting Started
 
@@ -14,7 +19,7 @@ Before you start with anything, you need to get Codio setup so that you can  run
 
 If you **encounter technical problems or issues**, you'll need to consult the [Technical FAQ](technical-FAQ.md). Importantly, this page tells you what to do if your particular question or issue is not specifically addressed by the FAQ  itself. 
 
-## Schedule and materials
+## Schedule and Materials
 
 **Lectures** will be held on Tuesday mornings between 9am-12 noon in St George's Church, in weeks 1-6. We don't expect to use all three hours each week, so don't worry. There will be a break during this period and also a team quiz! 
 
