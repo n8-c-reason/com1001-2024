@@ -2,6 +2,13 @@
 
 Welcome! This repository code examples, practical sheets, and slides to support the Spring Semester of the COM1001 module "Introduction to Software Engineering" at the University of Sheffield.
 
+## Key Teaching Staff
+
+<table border="0">
+  <tr><img src=".images/phil.jpg" width="100"/></tr>
+  <tr><img src=".images/donghwan.jpg" width="100"/></tr>
+</table>
+
 ## Getting Started
 
 Before you start with anything, you need to get Codio setup so that you can  run the examples in this repository, and eventually, develop your team project. To do this, follow the instructions on the [Getting Started](getting-started.md) page.
