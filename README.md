@@ -5,8 +5,14 @@ Welcome! This repository code examples, practical sheets, and slides to support 
 ## Key Teaching Staff
 
 <table border="0">
-  <tr><img src=".images/phil.jpg" width="100"/></tr>
-  <tr><img src=".images/donghwan.jpg" width="100"/></tr>
+  <tr>
+    <td><img src=".images/phil.jpg" width="100"/></td>
+    <td><img src=".images/donghwan.jpg" width="100"/></td>
+  </tr>
+  <tr>
+    <td>Phil McMinn</td>
+    <td>Donghwan Shin</td>
+  </tr>
 </table>
 
 ## Getting Started
