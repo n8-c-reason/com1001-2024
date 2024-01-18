@@ -11,8 +11,7 @@ Jump to:
 
   |<img src=".images/phil.jpg" width="150"/> | <img src=".images/donghwan.jpg" width="150"/>|
   |:----------------------------------------:|:--------------------------------------------:|
-  | [Phil McMinn](https://mcminn.info)  | [Donghwan Shin](https://www.dshin.info) <br /> Team Project |
-  | Lectures & Labs | |
+  | [Phil McMinn](https://mcminn.info) <br /> Lectures & Labs | [Donghwan Shin](https://www.dshin.info) <br /> Team Project |
 
 ## 2. Getting Started
 
