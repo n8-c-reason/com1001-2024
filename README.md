@@ -4,16 +4,9 @@ Welcome! This repository code examples, practical sheets, and slides to support 
 
 ## Key Teaching Staff
 
-<table border="0">
-  <tr>
-    <td><img src=".images/phil.jpg" width="100"/></td>
-    <td><img src=".images/donghwan.jpg" width="100"/></td>
-  </tr>
-  <tr>
-    <td>Phil McMinn</td>
-    <td>Donghwan Shin</td>
-  </tr>
-</table>
+  |<img src=".images/phil.jpg" width="100"/> | <img src=".images/donghwan.jpg" width="100"/>|
+  |------------------------------------------|----------------------------------------------|
+  | Phil McMinn | Donghwan Shin |
 
 ## Getting Started
 
