@@ -5,7 +5,7 @@ Welcome! This repository code examples, practical sheets, and slides to support 
 ## Key Teaching Staff
 
   |<img src=".images/phil.jpg" width="100"/> | <img src=".images/donghwan.jpg" width="100"/>|
-  |------------------------------------------|----------------------------------------------|
+  |:----------------------------------------:|:--------------------------------------------:|
   | Phil McMinn | Donghwan Shin |
 
 ## Getting Started
