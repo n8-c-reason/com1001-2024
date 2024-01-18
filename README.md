@@ -3,9 +3,9 @@
 Welcome! This repository code examples, practical sheets, and slides to support the Spring Semester of the COM1001 module "Introduction to Software Engineering" at the University of Sheffield.
 
 Jump to:
-* [Primary Teaching Staff](#primary-teaching-staff)
-* [Getting Started](#getting-started)
-* [Schedule and Materials](#schedule-and-materials)
+* [1. Primary Teaching Staff](#1-primary-teaching-staff)
+* [2. Getting Started](#2-getting-started)
+* [3. Schedule and Materials](#3-schedule-and-materials)
 
 ## 1. Primary Teaching Staff
 
