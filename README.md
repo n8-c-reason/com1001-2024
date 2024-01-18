@@ -6,7 +6,7 @@ Welcome! This repository code examples, practical sheets, and slides to support 
 
   |<img src=".images/phil.jpg" width="100"/> | <img src=".images/donghwan.jpg" width="100"/>|
   |:----------------------------------------:|:--------------------------------------------:|
-  | Phil McMinn | Donghwan Shin |
+  | [Phil McMinn](https://mcminn.info) <br /> Lectures & Labs | [Donghwan Shin](https://www.dshin.info) <br /> Team Project Lead |
 
 ## Getting Started
 
