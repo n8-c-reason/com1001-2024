@@ -7,19 +7,19 @@ Jump to:
 * [Getting Started](#getting-started)
 * [Schedule and Materials](#schedule-and-materials)
 
-## Primary Teaching Staff
+## 1. Primary Teaching Staff
 
-  |<img src=".images/phil.jpg" width="100"/> | <img src=".images/donghwan.jpg" width="100"/>|
+  |<img src=".images/phil.jpg" width="150"/> | <img src=".images/donghwan.jpg" width="150"/>|
   |:----------------------------------------:|:--------------------------------------------:|
   | [Phil McMinn](https://mcminn.info) <br /> Lectures & Labs | [Donghwan Shin](https://www.dshin.info) <br /> Team Project |
 
-## Getting Started
+## 2. Getting Started
 
 Before you start with anything, you need to get Codio setup so that you can  run the examples in this repository, and eventually, develop your team project. To do this, follow the instructions on the [Getting Started](getting-started.md) page.
 
 If you **encounter technical problems or issues**, you'll need to consult the [Technical FAQ](technical-FAQ.md). Importantly, this page tells you what to do if your particular question or issue is not specifically addressed by the FAQ  itself. 
 
-## Schedule and Materials
+## 3. Schedule and Materials
 
 **Lectures** will be held on Tuesday mornings between 9am-12 noon in St George's Church, in weeks 1-6. We don't expect to use all three hours each week, so don't worry. There will be a break during this period and also a team quiz! 
 
