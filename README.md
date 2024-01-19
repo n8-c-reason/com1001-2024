@@ -23,8 +23,8 @@ If you **encounter technical problems or issues**, you'll need to consult the [T
 
 Materials for the module can all be found in this repository, which consists of directories corresponding to content for each week. Files will be added as we proceed through the module, so ensure that you regularly do a `git pull`.
 
-| Week | Lecture <br /> Tuesdays 10-12pm | Practical Session <br /> Fridays 1-2pm | Materials | Supervisor Meeting <br /> Tuesdays 1-3pm | Deadline |
-|-----:|---------|-------------------|-----------|--------------------|----------|
+| Week | Lecture <br /> (Tuesdays 10-12pm) | Practical Session <br /> (Fridays 1-2pm) | Materials | Supervisor Meeting <br /> Tuesdays 1-3pm | Deadline |
+|-:|-|-|-|-|-|
 |Pre   | | | [getting-started/](``getting-started/``)|
 |1     | <ul><li>HTTP – a review</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul>| TBA | Not available yet| *No meeting* | |
 |2     | <ul><li>Forms</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Forms</li><li>Sessions</li></ul> | TBA | Not available yet| Catch-up | |
