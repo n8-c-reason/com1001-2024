@@ -49,7 +49,7 @@ Materials for the module can all be found in this repository, which consists of 
 |2     | <ul><li>Forms</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Forms</li><li>Sessions</li></ul> | | Not available yet|
 |3     | <ul><li>Databases</li><li>Object Relational Mapping</li></ul> | | Not available yet|
 |4     | <ul><li>Testing</li><li>Debugging</li></ul> | | Not available yet| 
-|5     | <ul><li>Refactoring</li></ul> | | Not available yet|
+|5     | <ul><li>Refactoring</li><li>Security</li></ul> | | Not available yet|
 |6     | <ul><li>TBA</li></ul> | | Not available yet|
 |7     | No lecture | *No session this week* | Not available yet|
 |Easter|
