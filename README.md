@@ -27,16 +27,17 @@ Materials for the module can all be found in this repository, which consists of 
 |-----:|---------|-------------------|-----------|--------------------|----------|
 |Pre   | | | [getting-started/](``getting-started/``)|
 |1     | <ul><li>HTTP – a review</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul>| TBA | Not available yet| *No meeting* | |
-|2     | <ul><li>Forms</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Forms</li><li>Sessions</li></ul> | TBA | Not available yet| Normal |
-|3     | <ul><li>Databases</li><li>Object Relational Mapping</li></ul> | TBA | Not available yet|
-|4     | <ul><li>Testing</li><li>Debugging</li></ul> | TBA | Not available yet| 
-|5     | <ul><li>Refactoring</li><li>Security</li></ul> | TBA | Not available yet|
-|6     | <ul><li>TBA</li></ul> | | Not available yet|
-|7     | *No lecture* | *No session* | |
+|2     | <ul><li>Forms</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Forms</li><li>Sessions</li></ul> | TBA | Not available yet| Catch-up | |
+|3     | <ul><li>Databases</li><li>Object Relational Mapping</li></ul> | TBA | Not available yet| Catch-up | |
+|4     | <ul><li>Testing</li><li>Debugging</li></ul> | TBA | Not available yet| Catch-up | |
+|5     | <ul><li>Refactoring</li><li>Security</li></ul> | TBA | Not available yet| Catch-up | |
+|6     | <ul><li>TBA</li></ul> | | Not available yet| Catch-up | |
+|7     | *No lecture* | *No session* | | Demo | Iteration 1, Friday 22 March, 15:00 |
 |Easter|
-|8     | *No lecture* | Team Project Help | |
-|9     | *No lecture* | Team Project Help | |
-|10    | *No lecture* | Team Project Help | |
+|8     | *No lecture* | Team Project Help | | Catch-up | |
+|9     | *No lecture* | Team Project Help | | Catch-up | |
+|10    | *No lecture* | Team Project Help | | Catch-up | |
+|11    | *No lecture* | Team Project Help | | Demo | Iteration 2, Friday 10 May, 15:00 |
 
 ### Lectures
 
