@@ -23,11 +23,11 @@ If you **encounter technical problems or issues**, you'll need to consult the [T
 
 Materials for the module can all be found in this repository, which consists of directories corresponding to content for each week. Files will be added as we proceed through the module, so ensure that you regularly do a `git pull`.
 
-| Week | Lecture | Practical Session | Materials |
-|-----:|---------|-----|-----------|
+| Week | Lecture | Practical Session | Materials | Supervisor Meeting | Deadline |
+|-----:|---------|-------------------|-----------|--------------------|----------|
 |Pre   | | | [getting-started/](``getting-started/``)|
-|1     | <ul><li>HTTP – a review</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul>| TBA | Not available yet|
-|2     | <ul><li>Forms</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Forms</li><li>Sessions</li></ul> | TBA | Not available yet|
+|1     | <ul><li>HTTP – a review</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul>| TBA | Not available yet| *No meeting* | |
+|2     | <ul><li>Forms</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Forms</li><li>Sessions</li></ul> | TBA | Not available yet| Normal |
 |3     | <ul><li>Databases</li><li>Object Relational Mapping</li></ul> | TBA | Not available yet|
 |4     | <ul><li>Testing</li><li>Debugging</li></ul> | TBA | Not available yet| 
 |5     | <ul><li>Refactoring</li><li>Security</li></ul> | TBA | Not available yet|
@@ -52,4 +52,7 @@ Where you go and where you sit depends on which team you're in:
 
 ### Supervisor Meetings
 
-Each team will be allocated a supervisor (a member of the department's teaching staff. Each team will meet with their supervisor once a week, **starting in week 2 and and finishing in week 11**. Supervisors will discuss with you how your project is going and check that all your team members are engaged with it. These meetings will happen on **Tuesday afternoons between 1-3pm in Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor of the Diamond.
+Each team will be allocated a supervisor (a member of the department's teaching staff. Each team will meet with their supervisor once a week, **starting in week 2 and and finishing in week 11**. These meetings will happen on **Tuesday afternoons between 1-3pm in Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor of the Diamond.
+
+There are two types of meeting – "catchup" and "demo". During **"catch-up" meetings**, supervisors will discuss with you how your project is going and check that all your team members are engaged with it. **Demo** meetings are where you will demonstrate your work to your supervisor. These meetings will happen in the week prior to handing in your work for iteration 1 and iteration 2.
+
