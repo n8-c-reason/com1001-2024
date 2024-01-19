@@ -19,24 +19,27 @@ Before you start with anything, you need to get Codio setup so that you can  run
 
 If you **encounter technical problems or issues**, you'll need to consult the [Technical FAQ](technical-FAQ.md). Importantly, this page tells you what to do if your particular question or issue is not specifically addressed by the FAQ  itself. 
 
-## 3. Schedule and Materials
+## 3. Schedule
 
 ### Lectures
 
 Lectures will be held on **Tuesday mornings 10am-12 noon in St George's Church, in weeks 1-6**. There will be a break during the 2 hour lecture, and also a (non-assessed) team quiz. There will be a prize in week 6 for the team that performs best overall in the quizzes. 
 
-### Practical Sessions (Labs)
+### Practical Sessions (Labs)
 
-Practical sessions will be held on **Fridays 1-2pm in the [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans)**. Where you go and where you sit depends on which team your're in:
+Practical sessions will be held on **Fridays 1-2pm in the [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans) from week 1 until week 10** (but excluding week 7). Where you go and where you sit depends on which team you're in:
 
 * **Teams 1-26** need to go to **Computer Room 3** on the second floor, and follow the [seating plan for CR3](cr3-seating-plan.pdf).
 * **Teams 27-53** need to go to **Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor, and follow the [seating plan for CR5](cr5-seating-plan.pdf).
 
-**Supervisor meetings** will occur for each team on **Tuesday afternoons between
-1-3pm in Computer Room 5** (formerly known as the Mindsphere lounge) on the
+### Supervisor Meetings
+
+Each team will be allocated a supervisor (a member of the department's teaching staff. Each team will meet with their supervisor once a week, **starting in week 2 and and finishing in week 11**. Thsese meetings will ha on **Tuesday afternoons between 1-3pm in Computer Room 5** (formerly known as the Mindsphere lounge) on the
 ground floor of the Diamond.
 
-**Materials** for the module can all be found in this repository, which consists of directories corresponding to content for each week. Files will be added as we proceed through the module, so ensure that you regularly do a `git pull`.
+## 4. Materials
+
+Materials for the module can all be found in this repository, which consists of directories corresponding to content for each week. Files will be added as we proceed through the module, so ensure that you regularly do a `git pull`.
 
 | Week | Lecture | Lab | Materials |
 |------|---------|-----|-----------|
