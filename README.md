@@ -5,7 +5,8 @@ Welcome! This repository code examples, practical sheets, and slides to support 
 Jump to:
 * [1. Primary Teaching Staff](#1-primary-teaching-staff)
 * [2. Getting Started](#2-getting-started)
-* [3. Schedule and Materials](#3-schedule-and-materials)
+* [3. Schedule](#3-schedule)
+* [4. Materials](#4-materials)
 
 ## 1. Primary Teaching Staff
 
