@@ -5,8 +5,8 @@ Welcome! This repository code examples, practical sheets, and slides to support 
 Jump to:
 * [1. Primary Teaching Staff](#1-primary-teaching-staff)
 * [2. Getting Started](#2-getting-started)
-* [3. Schedule](#3-schedule)
-* [4. Materials](#4-materials)
+* [3. Contact Hours](#3-contact-hours)
+* [4. Schedule and Materials](#4-schedule-and-materials)
 
 ## 1. Primary Teaching Staff
 
@@ -20,7 +20,7 @@ Before you start with anything, you need to get Codio setup so that you can  run
 
 If you **encounter technical problems or issues**, you'll need to consult the [Technical FAQ](technical-FAQ.md). Importantly, this page tells you what to do if your particular question or issue is not specifically addressed by the FAQ  itself. 
 
-## 3. Schedule
+## 3. Contact Hours
 
 ### Lectures
 
@@ -38,7 +38,7 @@ Where you go and where you sit depends on which team you're in:
 
 Each team will be allocated a supervisor (a member of the department's teaching staff. Each team will meet with their supervisor once a week, **starting in week 2 and and finishing in week 11**. Supervisors will discuss with you how your project is going and check that all your team members are engaged with it. These meetings will happen on **Tuesday afternoons between 1-3pm in Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor of the Diamond.
 
-## 4. Materials
+### 4. Schedule and Materials
 
 Materials for the module can all be found in this repository, which consists of directories corresponding to content for each week. Files will be added as we proceed through the module, so ensure that you regularly do a `git pull`.
 
