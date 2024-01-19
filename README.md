@@ -15,7 +15,7 @@ Jump to:
 
 ## 2. Getting Started
 
-Before you start with anything, you need to get Codio setup so that you can  run the examples in this repository, and eventually, develop your team project. To do this, follow the instructions on the [Getting Started](./getting-started/README.md) page.
+Before you start with anything, you need to get Codio setup so that you can  run the examples in this repository, and eventually, develop your team project. To do this, follow the instructions on the [Getting Started](./resources/getting-started/README.md) page.
 
 If you **encounter technical problems or issues**, you'll need to consult the [Technical FAQ](technical-FAQ.md). Importantly, this page tells you what to do if your particular question or issue is not specifically addressed by the FAQ  itself. 
 
@@ -25,7 +25,7 @@ Materials for the module can all be found in this repository, which consists of 
 
 | Week | Lecture <br /> (Tuesdays 10-12pm) | Practical Session <br /> (Fridays 1-2pm) | Resources | Supervisor Meeting <br /> (Tuesdays 1-3pm) | Deadline |
 |-:|-|-|-|-|-|
-|Pre   | | | [getting-started/](getting-started/)|
+|Pre   | | | [Getting started](./resources/getting-started/)|
 |1     | <ul><li>HTTP – a review</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul>| TBA | Not available yet| *No meeting* | |
 |2     | <ul><li>Forms</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Forms</li><li>Sessions</li></ul> | TBA | Not available yet| Catch-up | |
 |3     | <ul><li>Databases</li><li>Object Relational Mapping</li></ul> | TBA | Not available yet| Catch-up | |
