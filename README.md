@@ -21,15 +21,15 @@ If you **encounter technical problems or issues**, you'll need to consult the [T
 
 ## 3. Schedule and Materials
 
-**Lectures** will be held on ***Tuesday mornings 10am-12 noon in St George's Church, in weeks 1-6***. There will be a break during this period, and also a team quiz.
+**Lectures** will be held on **Tuesday mornings 10am-12 noon in St George's Church, in weeks 1-6**. There will be a break during this period, and also a team quiz.
 
-**Labs** will be held on ***Fridays 1-2pm in the [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans)***. Where you go and where you sit depends on which team your're in:
+**Labs** will be held on **Fridays 1-2pm in the [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans)**. Where you go and where you sit depends on which team your're in:
 
-* **Teams 1-26** need to go to ***Computer Room 3*** on the second floor, and follow the [seating plan for CR3](cr3-seating-plan.pdf).
-* **Teams 27-53** need to go to ***Computer Room 5*** (formerly known as the Mindsphere lounge) on the ground floor, and follow the [seating plan for CR5](cr5-seating-plan.pdf).
+* **Teams 1-26** need to go to **Computer Room 3** on the second floor, and follow the [seating plan for CR3](cr3-seating-plan.pdf).
+* **Teams 27-53** need to go to **Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor, and follow the [seating plan for CR5](cr5-seating-plan.pdf).
 
-**Supervisor meetings** will occur for each team on ***Tuesday afternoons between
-1-3pm in Computer Room 5*** (formerly known as the Mindsphere lounge) on the
+**Supervisor meetings** will occur for each team on **Tuesday afternoons between
+1-3pm in Computer Room 5** (formerly known as the Mindsphere lounge) on the
 ground floor of the Diamond.
 
 **Materials** for the module can all be found in this repository, which consists of directories corresponding to content for each week. Files will be added as we proceed through the module, so ensure that you regularly do a `git pull`.
