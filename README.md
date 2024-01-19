@@ -52,7 +52,7 @@ Where you go and where you sit depends on which team you're in:
 
 ### Supervisor Meetings
 
-Each team will be allocated a supervisor (a member of the department's teaching staff. Each team will meet with their supervisor once a week, **starting in week 2 and and finishing in week 11**. These meetings will happen on **Tuesday afternoons between 1-3pm in Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor of the Diamond.
+Each team will be allocated a supervisor (a member of the department's teaching staff. Each team will meet with their supervisor once a week, **starting in week 2 and and finishing in week 11**. These meetings will happen on **Tuesday afternoons between 1-3pm in Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor of the Diamond. You will be notified of the exact time you will need to attend in this two hour block, for a 10-15 minute meeting.
 
 There are two types of meeting – "catchup" and "demo". During **"catch-up" meetings**, supervisors will discuss with you how your project is going and check that all your team members are engaged with it. **Demo** meetings are where you will demonstrate your work to your supervisor. These meetings will happen in the week prior to handing in your work for iteration 1 and iteration 2.
 
