@@ -51,8 +51,8 @@ Materials for the module can all be found in this repository, which consists of 
 |4     | <ul><li>Testing</li><li>Debugging</li></ul> | TBA | Not available yet| 
 |5     | <ul><li>Refactoring</li><li>Security</li></ul> | TBA | Not available yet|
 |6     | <ul><li>TBA</li></ul> | | Not available yet|
-|7     | *No lecture* | *No session* | Not available yet|
+|7     | *No lecture* | *No session* | |
 |Easter|
-|8     | *No lecture* | Team Project Help | Not available yet|
-|9     | *No lecture* | Team Project Help | Not available yet|
-|10    | *No lecture* | Team Project Help | Not available yet|
+|8     | *No lecture* | Team Project Help | |
+|9     | *No lecture* | Team Project Help | |
+|10    | *No lecture* | Team Project Help | |
