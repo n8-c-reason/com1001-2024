@@ -52,6 +52,7 @@ Materials for the module can all be found in this repository, which consists of 
 |5     | <ul><li>Refactoring</li></ul> | | Not available yet|
 |6     | <ul><li>TBA</li></ul> | | Not available yet|
 |7     | No lecture | *No session this week* | Not available yet|
+<td colspan="4">*Easter break*</td>
 |8     | No lecture | Team Project Help | Not available yet|
 |9     | No lecture | Team Project Help | Not available yet|
 |10    | No lecture | Team Project Help | Not available yet|
