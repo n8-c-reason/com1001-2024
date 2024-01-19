@@ -9,7 +9,7 @@ Jump to:
 
 ## 1. Primary Teaching Staff
 
-  |<img src="misc/images/phil.jpg" width="150"/> | <img src="misc/images/donghwan.jpg" width="150"/>|
+  |<img src="./misc/phil.jpg" width="150"/> | <img src="./misc/donghwan.jpg" width="150"/>|
   |:----------------------------------------:|:--------------------------------------------:|
   | [Phil McMinn](https://mcminn.info) <br /> Lectures & Labs | [Donghwan Shin](https://www.dshin.info) <br /> Team Project |
 
