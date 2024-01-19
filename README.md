@@ -21,7 +21,7 @@ If you **encounter technical problems or issues**, you'll need to consult the [T
 
 ## 3. Schedule and Materials
 
-### Lectures
+#### Lectures
 
 **Lectures** will be held on **Tuesday mornings 10am-12 noon in St George's Church, in weeks 1-6**. There will be a break during the 2 hour lecture, and also a (non-assessed) team quiz. There will be a prize in week 6 for the team that performs best overall in the quizzes. 
 
