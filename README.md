@@ -48,8 +48,8 @@ Lectures will be held on **Tuesday mornings 10am-12 noon in St George's Church, 
 Practical sessions will be held on **Fridays 1-2pm in the [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans) from week 1 until week 10** (but excluding week 7). The practical sessions consist of team exercises, coding challenges, and will offer practical technical help regarding the team project. 
 Where you go and where you sit depends on which team you're in:
 
-* **Teams 1-26** need to go to **Computer Room 3** on the second floor, and follow the [seating plan for CR3](cr3-seating-plan.pdf).
-* **Teams 27-53** need to go to **Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor, and follow the [seating plan for CR5](cr5-seating-plan.pdf).
+* **Teams 1-26** need to go to **Computer Room 3** on the second floor, and follow the [seating plan for CR3](CR3-seating-plan.pdf).
+* **Teams 27-53** need to go to **Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor, and follow the [seating plan for CR5](CR5-seating-plan.pdf).
 
 ### Supervisor Meetings
 
