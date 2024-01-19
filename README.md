@@ -45,7 +45,8 @@ Lectures will be held on **Tuesday mornings 10am-12 noon in St George's Church, 
 
 ### Practical Sessions (Labs)
 
-Practical sessions will be held on **Fridays 1-2pm in the [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans) from week 1 until week 10** (but excluding week 7). The practical sessions consist of team exercises, coding challenges, and will offer practical technical help regarding the team project. 
+Practical sessions will be held on **Fridays 1-2pm in the [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans) from week 1 until week 10** (but excluding week 7). The practical sessions consist of team exercises, coding challenges, and will offer practical technical help regarding the team project. You will need to bring your own laptop to this session, or use the departmental laptop loan facility.
+
 Where you go and where you sit depends on which team you're in:
 
 * **Teams 1-26** need to go to **Computer Room 3** on the second floor, and follow the [seating plan for CR3](materials/CR3-seating-plan.pdf).
@@ -55,5 +56,5 @@ Where you go and where you sit depends on which team you're in:
 
 Each team will be allocated a supervisor (a member of the department's teaching staff. Each team will meet with their supervisor once a week, **starting in week 2 and and finishing in week 11**. These meetings will happen on **Tuesday afternoons between 1-3pm in Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor of the Diamond. You will be notified of the exact time you will need to attend in this two hour block, for a 10-15 minute meeting.
 
-There are two types of meeting – "catchup" and "demo". During **"catch-up" meetings**, supervisors will discuss with you how your project is going and check that all your team members are engaged with it. **Demo** meetings are where you will demonstrate your work to your supervisor. These meetings will happen in the week prior to handing in your work for iteration 1 and iteration 2.
+There are two types of meeting – "catchup" and "demo". During **"catch-up" meetings**, supervisors will discuss with you how your project is going and check that all your team members are engaged with it. **Demo** meetings are where you will demonstrate your work to your supervisor. These meetings will happen in the week prior to handing in your work for iteration 1 and iteration 2. For the demo, your team will need its own device to showcase your work – or, you can use the departmental laptop loan facility.
 
