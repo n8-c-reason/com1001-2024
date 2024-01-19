@@ -32,12 +32,12 @@ Materials for the module can all be found in this repository, which consists of 
 |4     | <ul><li>Testing</li><li>Debugging</li></ul> | TBA | Not available yet| Catch-up | |
 |5     | <ul><li>Refactoring</li><li>Security</li></ul> | TBA | Not available yet| Catch-up | |
 |6     | <ul><li>TBA</li></ul> | | Not available yet| Catch-up | |
-|7     | *No lecture* | *No session* | | Demo | Iteration 1, Friday 22 March, 15:00 |
+|7     | *No lecture* | *No session* | | Demo | Iteration 1 <br /> Fri 22 Mar, 15:00 |
 |Easter|
 |8     | *No lecture* | Team Project Help | | Catch-up | |
 |9     | *No lecture* | Team Project Help | | Catch-up | |
 |10    | *No lecture* | Team Project Help | | Catch-up | |
-|11    | *No lecture* | Team Project Help | | Demo | Iteration 2, Friday 10 May, 15:00 |
+|11    | *No lecture* | Team Project Help | | Demo | Iteration 2 <br /> Fri 10 May, 15:00 |
 
 ### Lectures
 
