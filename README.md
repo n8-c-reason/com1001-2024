@@ -9,7 +9,7 @@ Jump to:
 
 ## 1. Primary Teaching Staff
 
-  |<img src="materials/images/phil.jpg" width="150"/> | <img src="materials/images/donghwan.jpg" width="150"/>|
+  |<img src="resources/images/phil.jpg" width="150"/> | <img src="resources/images/donghwan.jpg" width="150"/>|
   |:----------------------------------------:|:--------------------------------------------:|
   | [Phil McMinn](https://mcminn.info) <br /> Lectures & Labs | [Donghwan Shin](https://www.dshin.info) <br /> Team Project |
 
@@ -49,8 +49,8 @@ Practical sessions will be held on **Fridays 1-2pm in the [Diamond](https://www.
 
 Where you go and where you sit depends on which team you're in:
 
-* **Teams 1-26** need to go to **Computer Room 3** on the second floor, and follow the [seating plan for CR3](materials/CR3-seating-plan.pdf).
-* **Teams 27-53** need to go to **Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor, and follow the [seating plan for CR5](materials/CR5-seating-plan.pdf).
+* **Teams 1-26** need to go to **Computer Room 3** on the second floor, and follow the [seating plan for CR3](resources/CR3-seating-plan.pdf).
+* **Teams 27-53** need to go to **Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor, and follow the [seating plan for CR5](resources/CR5-seating-plan.pdf).
 
 ### Supervisor Meetings
 
