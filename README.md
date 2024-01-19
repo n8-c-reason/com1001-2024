@@ -45,14 +45,14 @@ Materials for the module can all be found in this repository, which consists of 
 | Week | Lecture | Practical Session | Materials |
 |-----:|---------|-----|-----------|
 |Pre   | | | [getting-started/](``getting-started/``)|
-|1     | <ul><li>HTTP – a review</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul>| | Not available yet|
-|2     | <ul><li>Forms</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Forms</li><li>Sessions</li></ul> | | Not available yet|
-|3     | <ul><li>Databases</li><li>Object Relational Mapping</li></ul> | | Not available yet|
-|4     | <ul><li>Testing</li><li>Debugging</li></ul> | | Not available yet| 
-|5     | <ul><li>Refactoring</li><li>Security</li></ul> | | Not available yet|
+|1     | <ul><li>HTTP – a review</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul>| TBA | Not available yet|
+|2     | <ul><li>Forms</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Forms</li><li>Sessions</li></ul> | TBA | Not available yet|
+|3     | <ul><li>Databases</li><li>Object Relational Mapping</li></ul> | TBA | Not available yet|
+|4     | <ul><li>Testing</li><li>Debugging</li></ul> | TBA | Not available yet| 
+|5     | <ul><li>Refactoring</li><li>Security</li></ul> | TBA | Not available yet|
 |6     | <ul><li>TBA</li></ul> | | Not available yet|
-|7     | No lecture | *No session this week* | Not available yet|
+|7     | *No lecture* | *No session* | Not available yet|
 |Easter|
-|8     | No lecture | Team Project Help | Not available yet|
-|9     | No lecture | Team Project Help | Not available yet|
-|10    | No lecture | Team Project Help | Not available yet|
+|8     | *No lecture* | Team Project Help | Not available yet|
+|9     | *No lecture* | Team Project Help | Not available yet|
+|10    | *No lecture* | Team Project Help | Not available yet|
