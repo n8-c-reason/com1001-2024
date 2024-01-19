@@ -9,13 +9,13 @@ Jump to:
 
 ## 1. Primary Teaching Staff
 
-  |<img src="resources/images/phil.jpg" width="150"/> | <img src="resources/images/donghwan.jpg" width="150"/>|
+  |<img src="misc/images/phil.jpg" width="150"/> | <img src="misc/images/donghwan.jpg" width="150"/>|
   |:----------------------------------------:|:--------------------------------------------:|
   | [Phil McMinn](https://mcminn.info) <br /> Lectures & Labs | [Donghwan Shin](https://www.dshin.info) <br /> Team Project |
 
 ## 2. Getting Started
 
-Before you start with anything, you need to get Codio setup so that you can  run the examples in this repository, and eventually, develop your team project. To do this, follow the instructions on the [Getting Started](./resources/getting-started/README.md) page.
+Before you start with anything, you need to get Codio setup so that you can  run the examples in this repository, and eventually, develop your team project. To do this, follow the instructions on the [Getting Started](./getting-started/README.md) page.
 
 If you **encounter technical problems or issues**, you'll need to consult the [Technical FAQ](technical-FAQ.md). Importantly, this page tells you what to do if your particular question or issue is not specifically addressed by the FAQ  itself. 
 
@@ -25,7 +25,7 @@ Materials for the module can all be found in this repository, which consists of 
 
 | Week | Lecture <br /> (Tuesdays 10-12pm) | Practical Session <br /> (Fridays 1-2pm) | Resources | Supervisor Meeting <br /> (Tuesdays 1-3pm) | Deadline |
 |-:|-|-|-|-|-|
-|Pre   | | | [Getting started](./resources/getting-started/)|
+|Pre   | | | [getting-started/](./getting-started/)|
 |1     | <ul><li>HTTP – a review</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul>| TBA | Not available yet| *No meeting* | |
 |2     | <ul><li>Forms</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Forms</li><li>Sessions</li></ul> | TBA | Not available yet| Catch-up | |
 |3     | <ul><li>Databases</li><li>Object Relational Mapping</li></ul> | TBA | Not available yet| Catch-up | |
@@ -49,8 +49,8 @@ Practical sessions will be held on **Fridays 1-2pm in the [Diamond](https://www.
 
 Where you go and where you sit depends on which team you're in:
 
-* **Teams 1-26** need to go to **Computer Room 3** on the second floor, and follow the [seating plan for CR3](resources/CR3-seating-plan.pdf).
-* **Teams 27-53** need to go to **Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor, and follow the [seating plan for CR5](resources/CR5-seating-plan.pdf).
+* **Teams 1-26** need to go to **Computer Room 3** on the second floor, and follow the [seating plan for CR3](misc/CR3-seating-plan.pdf).
+* **Teams 27-53** need to go to **Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor, and follow the [seating plan for CR5](misc/CR5-seating-plan.pdf).
 
 ### Supervisor Meetings
 
