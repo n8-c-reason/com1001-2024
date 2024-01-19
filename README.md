@@ -21,11 +21,13 @@ If you **encounter technical problems or issues**, you'll need to consult the [T
 
 ## 3. Schedule and Materials
 
-#### Lectures
+### Lectures
 
-**Lectures** will be held on **Tuesday mornings 10am-12 noon in St George's Church, in weeks 1-6**. There will be a break during the 2 hour lecture, and also a (non-assessed) team quiz. There will be a prize in week 6 for the team that performs best overall in the quizzes. 
+Lectures will be held on **Tuesday mornings 10am-12 noon in St George's Church, in weeks 1-6**. There will be a break during the 2 hour lecture, and also a (non-assessed) team quiz. There will be a prize in week 6 for the team that performs best overall in the quizzes. 
 
-**Labs** will be held on **Fridays 1-2pm in the [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans)**. Where you go and where you sit depends on which team your're in:
+### Practical Sessions (Labs)
+
+Practical sessions will be held on **Fridays 1-2pm in the [Diamond](https://www.sheffield.ac.uk/engineering/diamond-engineering/floor-plans)**. Where you go and where you sit depends on which team your're in:
 
 * **Teams 1-26** need to go to **Computer Room 3** on the second floor, and follow the [seating plan for CR3](cr3-seating-plan.pdf).
 * **Teams 27-53** need to go to **Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor, and follow the [seating plan for CR5](cr5-seating-plan.pdf).
