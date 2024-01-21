@@ -14,8 +14,8 @@ The overall timeline of the project is as follows:
 
 | Iteration | Deadline | Deliverables | Semester Weighting |
 | --- | --- | --- | --- |
-| 1 | Friday 22 March, 15:00 (Week 7) | - Report | 40% |
-| 2 | Friday 10 May, 15:00 (Week 11) | - Report- 15-min demo recording | 60% |
+| 1 | Friday 22 March, 15:00 (Week 7) | Report | 40% |
+| 2 | Friday 10 May, 15:00 (Week 11) | Report, 15-min demo recording | 60% |
 
 ## Team Operating Agreement
 
