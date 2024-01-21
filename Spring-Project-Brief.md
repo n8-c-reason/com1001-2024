@@ -19,7 +19,7 @@ The overall timeline of the project is as follows:
 
 ## Team Operating Agreement
 
-Each team must have a **signed team operating agreement** , as explained in Semester 1. The template is available on the Blackboard (Semester 1 -\> Course Content -\> Lectures weeks 4-6 (Requirements) -\> 6-1 Teamwork). It is a living document and should be updated as the need arises throughout the project.
+Each team must have a **signed team operating agreement**, as explained in Semester 1. The template is available on the Blackboard (Semester 1 -\> Course Content -\> Lectures weeks 4-6 (Requirements) -\> 6-1 Teamwork) (or simply click this [link](https://vle.shef.ac.uk/bbcswebdav/pid-7099893-dt-content-rid-51488146_1/xid-51488146_1)). It is a living document and should be updated as the need arises throughout the project.
 
 If your team does not have a signed team operating agreement yet, create one as soon as possible. It will set out ground rules for working as a team and serve as an essential baseline in resolving disagreements and conflicts, if any.
 
