@@ -37,7 +37,7 @@ With all this in mind, here is a suggested week-by-week list of pointers for you
 | 4 | You should have completed some stories and have some tests in your application. |
 | 5 | You should have a good set of **unit tests** by now and you should also be starting to identify integration tests as well as system tests (in the form of acceptance tests). |
 | 6 | **Write different levels of tests (unit tests, integration tests, and**  **system** **tests)** to cover as much of your Iteration 1 stories as possible. Prepare for your team demonstration next week. |
-| 7 | (Iteration 1 ends) Submit the **Iteration 1 report** as a PDF. Ensure your repository is up to date.Prepare and rehearse your live **demonstration** of your system for your supervisor meeting this week. |
+| 7 | (Iteration 1 ends) Submit the **Iteration 1 report** as a PDF. Ensure your repository is up to date. Prepare and rehearse your live **demonstration** of your system for your supervisor meeting this week. |
 | 8 | Decide, as a team, how you're going to **make changes** as a result of feedback and any new requests. |
 | 9-10 | Time to meet up and make sure that everything integrates well and is consistent. Check your code style and conduct **refactoring** if needed. |
 | 11 | (Iteration 2 ends) The Iteration 2 deadline is this week. Time to finish up on implementation and testing. Prepare and rehearse your final **live demonstration**. Submit your **final team report and 15-min demo recording**. |
@@ -69,7 +69,7 @@ Iteration 1/2 reports should include the following information:
 
 At the end of Iteration 1, we may inspect your code but mostly for clarification.
 
-At the end of Iteration 2, we will look at **the last commit to the team's repository**** before the deadline** for the assessment.
+At the end of Iteration 2, we will look at **the last commit** to the team's repository **before the deadline** for the assessment.
 
 - Ensure all the **necessary files** are committed to your team repository **by the deadline**. Otherwise, you will not receive the mark you deserve.
 - We will _not_ check out other repositories (e.g., your personal repository from the last semester, or another Git repository).
@@ -103,7 +103,7 @@ As with last semester, you will be using BuddyCheck to rate yourself and your te
 
 5. Timeliness of contributions.
 
-Your final individual mark will be formed from a scaling factor that is applied to your overall team mark. The scaling factor is determined by your own self and peer assessment, and those returned by your team members. Note: The Department's Policy on Team-Based Assessments requires evidence to support an individual mark varying by more than +/-15% from the team mark; the evidence considered will include Supervisor meeting attendance/notes as well as slack/github interactions.
+Your final individual mark will be formed from a scaling factor that is applied to your overall team mark. The scaling factor is determined by your own self and peer assessment, and those returned by your team members. Note: The Department's Policy on Team-Based Assessments requires evidence to support an individual mark varying by more than +/-15% from the team mark; the evidence considered will include Supervisor meeting attendance/notes as well as Slack/GitHub interactions.
 
 ## Marking Criteria
 
@@ -113,7 +113,7 @@ Note: (2) indicates for iteration 2 only, and (1+2) indicates for both iteration
 
 | **Aspect (iterations)** | **Indicative Criteria** |
 | --- | --- |
-| Implementation Progress (1+2) | **Iteration 1** : The amount of work completed to date, the extent to which you are on track to delivering a good quality product and the appropriateness of stories implemented in this iteration. **Iteration 2** : The completeness and quality of your final system. The extent to which it implements the Client's requirements, how usable it is, how polished it is, and the extent to which it crashes and/or throws errors. |
+| Implementation Progress (1+2) | **Iteration 1**: The amount of work completed to date, the extent to which you are on track to delivering a good quality product and the appropriateness of stories implemented in this iteration. **Iteration 2**: The completeness and quality of your final system. The extent to which it implements the Client's requirements, how usable it is, how polished it is, and the extent to which it crashes and/or throws errors. |
 | Code Quality (1+2) | The quality of your code, including good coding principles, such as useful variable names, code comments, etc. The basic organisation of your code into units, and its overall structure. |
 | Testing (1+2) | The quality of your automated tests, including unit tests, integration tests, and system tests. The extent to which you have justified the level of coverage that you have obtained. |
 | Demonstration (1+2) | The quality of your team demonstration. The extent to which it demonstrates major user stories effectively within the limited time. |
@@ -129,4 +129,4 @@ We will be closely scrutinising submissions to detect such practices because it 
 
 To avoid any potential accidental wrongdoings, it is especially important that you do not discuss your solutions with other groups. If you have non-technical questions, please use the discussion board (Forum: Team Project - Non-coding Issues). If you have technical questions, please consult with your demonstrators.
 
-We acknowledge that **Generative AI** , such as Google Bard and OpenAI ChatGPT, can be useful in learning. For example, it is okay to use Gen-AI to try various programming exercises. However, **the use of Gen-AI is prohibited in any of your submissions** subject to the assessment (i.e., the reports and the code commits to the team repository). For example, you must _not_ use the code generated by Gen-AI in the code pushed to your team repository. It is crucial that you learn by doing the project by yourself, and gaining an unfair advantage through the use of Gen-AI in the assessment will be treated as unfair means.
+We acknowledge that **Generative AI**, such as Google Bard and OpenAI ChatGPT, can be useful in learning. For example, it is okay to use Gen-AI to try various programming exercises. However, **the use of Gen-AI is prohibited in any of your submissions** subject to the assessment (i.e., the reports and the code commits to the team repository). For example, you must _not_ use the code generated by Gen-AI in the code pushed to your team repository. It is crucial that you learn by doing the project by yourself, and gaining an unfair advantage through the use of Gen-AI in the assessment will be treated as unfair means.
