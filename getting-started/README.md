@@ -5,7 +5,7 @@
 ### Contents of this README file
 
 1. [Setting up Codio](#1-setting-up-codio)
-2. [Setting up and Installing the Repository on Codio](#2-setting-up-and-installing-the-repository-on-codio)
+2. [Clong this Repository on Codio](#2-cloning-this-repository-on-codio)
 3. [Running an Example](#3-running-an-example)
 
 ## 1. Setting up Codio
@@ -29,10 +29,9 @@ Give your project a name under **"Add some details"**. You can call your project
 
 A few seconds may elapse, but then you'll see a screen saying "Loading Project...", followed by a new screen. This is now your project. When you next sign into Codio, you can just go to "My Projects", and your project will be listed with the name you chose. You can just click it to restart it - you don't need to create a new project each time you sign in. 
 
-## 2. Setting up and Installing the Repository on Codio
+## 2. Cloning this Repository on Codio
 
-The first step in setting up and installing this repository is to clone it. Open a terminal in your project (it's the first option under "Tools" menu, or the middle icon under your project name in the left sidebar), and entering
-the following command:
+Open a terminal in your project (it's the first option under "Tools" menu, or the middle icon under your project name in the left sidebar), and enter the following command:
 
 ```console
 git clone git@github.com:UoS-COM1001/com1001-2024.git
