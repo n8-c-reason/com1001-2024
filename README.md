@@ -41,7 +41,7 @@ Materials for the module can all be found in this repository, which consists of 
 
 ### Lectures
 
-Lectures will be held on **Tuesday mornings 9am-12noon (week 1) / 10am-12 noon (weeks 2-6) in St George's Church, in weeks 1-6**. There will be a break during the 2 hour lecture, and also a (non-assessed) team quiz. There will be a prize in week 6 for the team that performs best overall in the quizzes. 
+Lectures will be held on **Tuesday mornings 9am-12noon (week 1) / 10am-12 noon (weeks 2-6) in St George's Church**. There will be a break during the 2 hour lecture, and also a (non-assessed) team quiz. There will be a prize in week 6 for the team that performs best overall in the quizzes. 
 
 ### Practical Sessions (Labs)
 
