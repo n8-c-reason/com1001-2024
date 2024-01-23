@@ -5,6 +5,9 @@ If there appear to be any conflicts - then the project brief wins.
 
 This is a *living* document. Newer Questions will be added at the top, so if you have read this once, then you should only need to check the first questions.
 
+If you're certain your issue doesn't seem to appear on the page, check "[How to Ask Questions](technical-FAQ.md#questions)", first.  
+If you think an issue needs to be added to this FAQ, [contact Donghwan Shin](mailto:d.shin@sheffield.ac.uk).
+
 
 ### Which browser should we use?
 
@@ -122,11 +125,6 @@ You should include a README.md that includes deployment (and maybe location) ins
 We will view your GitLab repository - mostly at the end of iteration 2 - so everything will be visible there.
 
 
-### Where can we ask more questions?
-
-Please use the Discussion Board/Forum. Only if the question is confidential/private, then please contact your Team Supervisor or myself (Donghwan).
-
-
 ### There is no exam in COM1001, right?
 
 Correct - there is no exam for COM1001. Please see the project brief and schedule document for details.
@@ -137,3 +135,8 @@ Correct - there is no exam for COM1001. Please see the project brief and schedul
 This will affect your individual marks, since you are meant to be using Gitlab for team working - this would count against your doing so. Also note that peer review will have less evidence of contributions.
 
 I recommend you start off with your README.md, in your Gitlab repository, and work from there. Create documents for testing, etc. and check them into Gitlab as well.
+
+
+### Where can we ask more questions?
+
+Please use the Discussion Board/Forum. Only if the question is confidential/private, then please contact your Team Supervisor or myself (Donghwan).
