@@ -61,8 +61,10 @@ Iteration 1/2 reports should include the following information:
 - Your burndown chart, showing progress over all of your stories over each iteration.
 - Overall, use figures and tables with clear captions, wherever appropriate.
 
-<img width="600" alt="image" src="https://github.com/UoS-COM1001/com1001-2024/assets/12538465/d9180dc0-9e6a-424a-b679-a67e158425ee">
-<img width="500" alt="image" src="https://github.com/UoS-COM1001/com1001-2024/assets/12538465/cdfaf553-2b10-4126-86a6-ed0e8ff0c841">  
+<img width="600" alt="figure-1" src="https://github.com/UoS-COM1001/com1001-2024/assets/12538465/d9180dc0-9e6a-424a-b679-a67e158425ee">
+<img width="500" alt="listing-1" src="https://github.com/UoS-COM1001/com1001-2024/assets/12538465/db7b53f4-97de-487b-abc9-87cff978a1d4">
+
+
 
 
 ## Code Commits to the Team Repository
