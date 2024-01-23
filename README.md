@@ -17,7 +17,9 @@ Jump to:
 
 Before you start with anything, you need to get Codio setup so that you can  run the examples in this repository, and eventually, develop your team project. To do this, follow the instructions on the [Getting Started](./getting-started/README.md) page.
 
-If you **encounter technical problems or issues**, you'll need to consult the [Technical FAQ](technical-FAQ.md). Importantly, this page tells you what to do if your particular question or issue is not specifically addressed by the FAQ  itself. 
+If you **encounter technical problems or issues**, you'll need to consult the [Technical FAQ](technical-FAQ.md). Importantly, this page tells you what to do if your particular question or issue is not specifically addressed by the FAQ itself. 
+
+The [Group Project Brief](Spring-Project-Brief.md) will give necessary details about your group project and assessments. If you have any questions regarding that, please consult the [Project FAQ](https://github.com/UoS-COM1001/com1001-2024/blob/main/project-FAQ.md) and use the Discussion Board/Forum. 
 
 ## 3. Schedule and Resources
 
