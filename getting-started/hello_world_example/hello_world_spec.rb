@@ -3,13 +3,15 @@ require "rack/test"
 
 require_relative "hello_world"
 
+def app
+  Sinatra::Application
+end
+
+RSpec.configure do |config|
+  config.include Rack::Test::Methods
+end
+
 RSpec.describe "Hello World example" do
-  include Rack::Test::Methods
-
-  def app
-    Sinatra::Application
-  end
-
   describe "GET /hello-world" do
     it "has a status code of 200 (OK)" do
       get "/hello-world"
