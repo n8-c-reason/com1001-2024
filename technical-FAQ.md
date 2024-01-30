@@ -149,7 +149,7 @@ You need the `sqlite3` gem installed as well. Make sure both the `sequel` and th
 
 Depending on how far through the lectures we are, we may not have encountered all of these, so don't worry about the ones you don't recognise (yet):
 
-* **Core gems** include `sinatra`, `puma` (the web server), `require_all` (for automatically "requiring" all Ruby files in a directory), `rubocop` (for coding standards and style checking). 
+* **Core gems** include `sinatra`, `puma` (the web server), `rerun` (which gives you the ability to restart the webserver when you change your code, so that you do not have to do it manually), `require_all` (for automatically "requiring" all Ruby files in a directory), `rubocop` (for coding standards and style checking). 
 
 * For the **database**, you'll need at least `sequel` and `sqlite3`. Don't forget the `sqlite3` gem, otherwise you'll get some confusing error messages.  
 
@@ -157,13 +157,13 @@ Depending on how far through the lectures we are, we may not have encountered al
 
 * For **code style checking**, you'll need `rubocop`. To extend style checking to RSpec and Sequel code, you'll also need `rubocop-rspec` and `rubocop-sequel` respectively.
 
-* For **testing**, you'll need at least `capybara` (for end-to-end tests), `rack-test`, `rspec`, and `simplecov` (for coverage tracking).
+* For **testing**, you'll need at least `capybara` (for end-to-end tests), `simplecov` (for coverage tracking), `rackup`, and `rspec`.
 
-Note that some of these gems may already be installed on a fresh Codio box. It's good practice to include them in your Gemfile regardless for development/deployment environments where they aren't.
+Note that some of these gems may already be installed on a fresh Codio box. In general, it's good practice to include them in your Gemfile regardless for development/deployment environments where they aren't.
 
-### When testing, my application seems to behave differently with Capybara compared to when it's being used for real. 
+### When testing, my application seems to behave differently compared to when it's being used for real. 
 
-This is often to do with differences between the "test" database and the "production" database. If certain data is not present in the test database, the application may behave differently. If you're experiencing some differing behaviour, the first thing you can check is the log files produced by Sequel. Check the queries are the same when the application is being run in "production" mode compared to when it is being tested.
+This is often to do with differences between the "test" database and the "development" database. If certain data is not present in the test database, the application may behave differently. If you're experiencing some differing behaviour, the first thing you can check is the log files produced by Sequel. Check the queries are the same when the application is being run in "production" mode compared to when it is being tested.
 
 ## 3. Problems with Git
 
