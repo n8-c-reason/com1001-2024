@@ -19,7 +19,7 @@ The overall timeline of the project is as follows:
 
 ## Team Operating Agreement
 
-Each team must have a **signed team operating agreement**, as explained in Semester 1. The template is available on the Blackboard (Semester 1 -\> Course Content -\> Lectures weeks 4-6 (Requirements) -\> 6-1 Teamwork) (or simply click this [link](https://vle.shef.ac.uk/bbcswebdav/pid-7099893-dt-content-rid-51488146_1/xid-51488146_1)). It is a living document and should be updated as the need arises throughout the project.
+Each team must have a **signed team operating agreement**, as explained in Semester 1. The template is available on the Blackboard (click this [link](https://vle.shef.ac.uk/bbcswebdav/pid-7099893-dt-content-rid-51488146_1/xid-51488146_1) or go to Semester 1 -> Course Content -> Lectures weeks 4-6 (Requirements) -> 6-1 Teamwork). It is a living document and should be updated as the need arises throughout the project.
 
 If your team does not have a signed team operating agreement yet, create one as soon as possible. It will set out ground rules for working as a team and serve as an essential baseline in resolving disagreements and conflicts, if any.
 
@@ -62,14 +62,12 @@ Iteration 1/2 reports should include the following information:
 - Overall, use figures and tables with clear captions, wherever appropriate.
 
 <img width="600" alt="figure-1" src="https://github.com/UoS-COM1001/com1001-2024/assets/12538465/d9180dc0-9e6a-424a-b679-a67e158425ee">
-<img width="500" alt="listing-1" src="https://github.com/UoS-COM1001/com1001-2024/assets/12538465/db7b53f4-97de-487b-abc9-87cff978a1d4">
-
-
+<img width="600" alt="listing-1" src="https://github.com/UoS-COM1001/com1001-2024/assets/12538465/55180e37-1a7b-41ad-af7c-d7c201525707">
 
 
 ## Code Commits to the Team Repository
 
-At the end of Iteration 1, we may inspect your code but mostly for clarification.
+At the end of Iteration 1, we may inspect your code, but mostly for clarification.
 
 At the end of Iteration 2, we will look at **the last commit** to the team's repository **before the deadline** for the assessment.
 
@@ -78,7 +76,7 @@ At the end of Iteration 2, we will look at **the last commit** to the team's rep
 - **All members** should be making **regular commits**. We will check that you have been making regular commits – not just one or two commits or a sudden rush of commits just before the deadline.
 - We will use **Codio** to run and test your code. Therefore, it is strongly recommended that you develop on Codio; otherwise, you must at least deploy often to Codio as it is the required deployment platform.
 - We will use **README** to run and test your code. Ensure that your README is up to date and contains the necessary information to run and test your system.
-- Ensure that your _ **Gemfile** _ is up to date. If we cannot run your application on Codio due to missing gem information, this will severely negatively affect your mark.
+- Ensure that your `Gemfile` is up to date. If we cannot run your application on Codio due to missing gem information, this will severely negatively affect your mark.
 - (Pro-tip) Attempt a **clean install** before your final commit to check whether your system is successfully deployed and running on Codio.
 
 ## Live Demonstrations
@@ -93,19 +91,19 @@ Here are some remarks for you:
 
 ## Team Contribution
 
-As with last semester, you will be using BuddyCheck to rate yourself and your team members on the following criteria:
+Similar to the last semester, you will be using BuddyCheck to rate yourself and your team members on the following criteria:
 
 1. Attendance and punctuality (to supervisor/your own team meetings, etc.).
 
 2. Ability to work effectively with other team members.
 
-3. Contribution to content and organisation of project deliverables.
+3. Quality of contributions.
 
-4. Quality of contributions.
+4. Timeliness of contributions.
 
-5. Timeliness of contributions.
+Your final individual mark will be formed from a scaling factor that is applied to your overall team mark. The scaling factor is determined by your own self and peer assessment, and those returned by your team members. 
 
-Your final individual mark will be formed from a scaling factor that is applied to your overall team mark. The scaling factor is determined by your own self and peer assessment, and those returned by your team members. Note: The Department's Policy on Team-Based Assessments requires evidence to support an individual mark varying by more than +/-15% from the team mark; the evidence considered will include Supervisor meeting attendance/notes as well as Slack/GitHub interactions.
+Note: The Department's Policy on Team-Based Assessments requires evidence to support an individual mark varying by more than +/-15% from the team mark; the evidence considered will include Supervisor meeting attendance/notes as well as Slack/GitHub interactions.
 
 ## Marking Criteria
 
@@ -115,7 +113,7 @@ Note: (2) indicates for iteration 2 only, and (1+2) indicates for both iteration
 
 | **Aspect (iterations)** | **Indicative Criteria** |
 | --- | --- |
-| Implementation Progress (1+2) | **Iteration 1**: The amount of work completed to date, the extent to which you are on track to delivering a good quality product and the appropriateness of stories implemented in this iteration. **Iteration 2**: The completeness and quality of your final system. The extent to which it implements the Client's requirements, how usable it is, how polished it is, and the extent to which it crashes and/or throws errors. |
+| Implementation Progress (1+2) | **Iteration 1**: The amount of work completed to date, the extent to which you are on track to delivering a good quality product and the appropriateness of stories implemented in this iteration. <br/> **Iteration 2**: The completeness and quality of your final system. The extent to which it implements the Client's requirements, how usable it is, how polished it is, and the extent to which it crashes and/or throws errors. |
 | Code Quality (1+2) | The quality of your code, including good coding principles, such as useful variable names, code comments, etc. The basic organisation of your code into units, and its overall structure. |
 | Testing (1+2) | The quality of your automated tests, including unit tests, integration tests, and system tests. The extent to which you have justified the level of coverage that you have obtained. |
 | Demonstration (1+2) | The quality of your team demonstration. The extent to which it demonstrates major user stories effectively within the limited time. |
