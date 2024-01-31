@@ -63,7 +63,7 @@ To ensure you get a timely answer that resolves your problem, ensure you follow 
   
   If your problem involves large segments or involves the whole project, then leave your team number and ensure you've pushed everything to the main branch of your repository (along with a detailed explanation of the problem you're experiencing). We can then clone your code and try to replicate the issue ourselves. 
 
-* **Please don't email staff about technical issues directly.** Although staff email addresses are listed on Blackboard, they're only there as a *last resort*. It is highly unlikely that you won't get a response using one of the methods above.
+* **Please don't email staff about technical issues directly.** Although we make our email addresses available, they're only to be used as a *last resort*. It is highly unlikely that you won't get a response using one of the methods above.
 
 Naturally, when asking a question, help us to help you by including as much relevant information as possible. Screen shots are fine, but don't just post these without any context. If you don't provide all the information needed, we won't be able to resolve the issue.
 
