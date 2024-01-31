@@ -32,7 +32,7 @@ Materials for the module can all be found in this repository, which consists of 
 |2     | <ul><li>Forms</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Forms</li><li>Sessions</li></ul> | TBA | Not available yet| Catch-up | |
 |3     | <ul><li>Databases</li><li>Object Relational Mapping</li><li>Data Confidentiality</ul> | TBA | Not available yet| Catch-up | |
 |4     | <ul><li>Guest lecture: Matthew Valentine-House (Shopify) – **Coding Ruby for Fun and as a Full-Time Job**</li></ul> | TBA | Not available yet| Catch-up | |
-|5     | <ul><li>Testing</li></ul> | TBA | Not available yet| Catch-up | |
+|5     | <ul><li>Why Write Automated Tests?</li><li>Using RSpec to Automated Unit and Integration Tests</li><li>Using Capybara+RSpec to Automate Acceptance Tests</li><li>Using Code Coverage as a Tool for Testing</li></ul> | TBA | Not available yet| Catch-up | |
 |6     | <ul><li>Debugging</li><li>Refactoring</li></ul> | TBA | Not available yet| Catch-up | |
 |7     | *No lecture* | *No session* | | Demo | Iteration 1 <br /> Fri 22 Mar, 15:00 |
 |Easter|
