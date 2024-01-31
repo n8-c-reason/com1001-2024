@@ -31,7 +31,7 @@ Materials for the module can all be found in this repository, which consists of 
 |1     | <ul><li>HTTP – a review</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul>| TBA | Not available yet| *No meeting* | |
 |2     | <ul><li>Forms</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Forms</li><li>Sessions</li></ul> | TBA | Not available yet| Catch-up | |
 |3     | <ul><li>Databases</li><li>Object Relational Mapping</li><li>Data Confidentiality</ul> | TBA | Not available yet| Catch-up | |
-|4     | Guest lecture: Matthew Valentine-House (Shopify) – Coding in Ruby for fun and as a job | TBA | Not available yet| Catch-up | |
+|4     | <ul><li>Guest lecture: Matthew Valentine-House (Shopify) – **Coding in Ruby for Fun and as a Job**</li></ul> | TBA | Not available yet| Catch-up | |
 |5     | <ul><li>Testing</li></ul> | TBA | Not available yet| Catch-up | |
 |6     | <ul><li>Debugging</li><li>Refactoring</li></ul> | TBA | Not available yet| Catch-up | |
 |7     | *No lecture* | *No session* | | Demo | Iteration 1 <br /> Fri 22 Mar, 15:00 |
