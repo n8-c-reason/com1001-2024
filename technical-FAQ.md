@@ -1,5 +1,7 @@
 # Technical FAQ
 
+This FAQ deals with technical (Codio, Ruby, Sinatra etc.) aspects of COM1001. If you have questions about the team proejct, then consult the [Project FAQ](project-FAQ.md) instead.
+
 This FAQ is organised into the following sections. Some questions fit more than one section, so ensure you've properly checked the whole FAQ in case you don't see it.
 
 1. [How to Ask
