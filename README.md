@@ -60,5 +60,5 @@ Each team will be allocated a supervisor (a member of the department's teaching 
 
 There are two types of meetings – "Catch-up" and "Demo". During **"Catch-up" meetings**, supervisors will discuss with you how your project is going and check that all your team members are engaged with it. **Demo** meetings are where you will demonstrate your work to your supervisor. These meetings will happen in the week prior to handing in your work for Iterations 1 and 2. For the demo, your team will need its own device to showcase your work – or, you can use the laptop loan facility.
 
-Note: your team supervisor will focus on monitoring your progress and teamwork, *not* providing technical advice on your project. 
+Note: your team supervisor will focus on monitoring your progress and teamwork, *not* providing technical advice on your project. Technical advice will be available (via the demonstrators) in the scheduled practical sessions listed above. 
 
