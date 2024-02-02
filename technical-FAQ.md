@@ -36,7 +36,7 @@ There are no stupid questions, as the saying goes, but there are definitely *laz
 4. **Check the docs**. Your question may be answered by the documentation for
    [Sinatra](http://sinatrarb.com/documentation.html),
    [SQLite](https://www.sqlite.org/docs.html) (see also [SQLite's SQL docs](https://www.sqlite.org/lang.html)),
-   [Sequel](https://sequel.jeremyevans.net/documentation.html) (see also [Sequel's GitHub page]   (https://github.com/jeremyevans/sequel), which has lots of handy examples), 
+   [Sequel](https://sequel.jeremyevans.net/documentation.html) (see also [Sequel's GitHub page](https://github.com/jeremyevans/sequel), which has lots of handy examples), 
    [RSpec](https://relishapp.com/rspec), and
    [Capybara](https://rubydoc.info/github/teamcapybara/capybara/master) (see also the handy [cheat sheet](https://devhints.io/capybara)).
 
