@@ -57,7 +57,7 @@ To ensure you get a timely answer that resolves your problem, ensure you follow 
   may not respond immediately.
   -->
 
-* **If your demonstrator cannot help you**, post a question in the appropriate forum in the [Discussion Board](https://vle.shef.ac.uk/webapps/discussionboard/do/conference?toggle_mode=edit&action=list_forums&course_id=_107947_1&nav=discussion_board_entry&mode=cpview) on Blackboard. 
+* **If your demonstrator cannot help you**, post a question in the appropriate forum in the [Coding Questions Discussion Board]([https://vle.shef.ac.uk/webapps/discussionboard/do/conference?toggle_mode=edit&action=list_forums&course_id=_107947_1&nav=discussion_board_entry&mode=cpview](https://vle.shef.ac.uk/webapps/discussionboard/do/forum?action=list_threads&course_id=_107947_1&nav=discussion_board_entry&conf_id=_346815_1&forum_id=_343693_1)) on Blackboard. 
   
   However, *don't post large chunks of your project's code in the forum*. If your problem only involves one or two lines of code that aren't important, that is fine; or, you might be able to obfuscate the code to demonstrate the same problem, but without using code directly lifted from your project.
   
