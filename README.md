@@ -29,7 +29,7 @@ Materials for the module can all be found in this repository, which consists of 
 |-:|-|-|-|-|-|
 |Pre   | | | [getting-started/](./getting-started/)|
 |1     | <ul><li>HTTP – a review</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul>| TBA | Not available yet| *No meeting* | |
-|2     | <ul><li>Forms</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Forms</li><li>Sessions</li></ul> | TBA | Not available yet| Catch-up | |
+|2     | <ul><li>Forms</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Sessions</li></ul> | TBA | Not available yet| Catch-up | |
 |3     | <ul><li>Databases</li><li>Object Relational Mapping</li><li>Data Confidentiality</ul> | TBA | Not available yet| Catch-up | |
 |4     | <ul><li>Guest lecture: Matthew Valentine-House (Shopify) – **Coding Ruby for Fun and as a Full-Time Job**</li></ul> | TBA | Not available yet| Catch-up | |
 |5     | <ul><li>Why Write Automated Tests?</li><li>Using RSpec to Automate Unit and Integration Tests</li><li>Using Capybara with RSpec to Automate Acceptance Tests</li><li>Using Code Coverage as a Tool for Testing</li></ul> | TBA | Not available yet| Catch-up | |
