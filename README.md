@@ -28,7 +28,7 @@ Materials for the module can all be found in this repository, which consists of 
 | Week | Lecture | Practical Session | Resources | Supervisor Meeting | Deadline |
 |-:|-|-|-|-|-|
 |Pre   | | | [getting-started/](./getting-started/) |
-|1     | <ul><li>HTTP – a review</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul>| TBA | [getting-started/](./week1/) | *No meeting* | |
+|1     | <ul><li>HTTP – a review</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul>| TBA | [week1/](./week1/) | *No meeting* | |
 |2     | <ul><li>Forms</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Sessions</li></ul> | TBA | Not available yet| Catch-up | |
 |3     | <ul><li>Databases</li><li>Object Relational Mapping</li><li>Data Confidentiality</ul> | TBA | Not available yet| Catch-up | |
 |4     | <ul><li>Guest lecture: Matthew Valentine-House (Shopify) – **Coding Ruby for Fun and as a Full-Time Job**</li></ul> | TBA | Not available yet| Catch-up | |
