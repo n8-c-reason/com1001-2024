@@ -34,7 +34,7 @@ A few seconds may elapse, but then you'll see a screen saying "Loading Project..
 Open a terminal in your project (it's the first option under "Tools" menu, or the middle icon under your project name in the left sidebar), and enter the following command:
 
 ```console
-git clone git@github.com:UoS-COM1001/com1001-2024.git
+git clone https://github.com/UoS-COM1001/com1001-2024.git
 ```
 
 (If you hover over the command, a clipboard icon will appear. If you click it, you can copy the command to your clipboard and then paste it into your terminal.)
