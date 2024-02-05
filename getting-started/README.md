@@ -5,7 +5,7 @@
 ### Contents of this README file
 
 1. [Setting up Codio](#1-setting-up-codio)
-2. [Clong this Repository on Codio](#2-cloning-this-repository-on-codio)
+2. [Cloning this Repository on Codio](#2-cloning-this-repository-on-codio)
 3. [Running an Example](#3-running-an-example)
 
 ## 1. Setting up Codio
