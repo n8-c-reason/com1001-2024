@@ -1,5 +1,7 @@
 # Technical FAQ
 
+This FAQ deals with technical (Codio, Ruby, Sinatra etc.) aspects of COM1001. If you have questions about the team proejct, then consult the [Project FAQ](project-FAQ.md) instead.
+
 This FAQ is organised into the following sections. Some questions fit more than one section, so ensure you've properly checked the whole FAQ in case you don't see it.
 
 1. [How to Ask
@@ -36,7 +38,7 @@ There are no stupid questions, as the saying goes, but there are definitely *laz
 4. **Check the docs**. Your question may be answered by the documentation for
    [Sinatra](http://sinatrarb.com/documentation.html),
    [SQLite](https://www.sqlite.org/docs.html) (see also [SQLite's SQL docs](https://www.sqlite.org/lang.html)),
-   [Sequel](https://sequel.jeremyevans.net/documentation.html) (see also [Sequel's GitHub page]   (https://github.com/jeremyevans/sequel), which has lots of handy examples), 
+   [Sequel](https://sequel.jeremyevans.net/documentation.html) (see also [Sequel's GitHub page](https://github.com/jeremyevans/sequel), which has lots of handy examples), 
    [RSpec](https://relishapp.com/rspec), and
    [Capybara](https://rubydoc.info/github/teamcapybara/capybara/master) (see also the handy [cheat sheet](https://devhints.io/capybara)).
 
@@ -57,13 +59,13 @@ To ensure you get a timely answer that resolves your problem, ensure you follow 
   may not respond immediately.
   -->
 
-* **If your demonstrator cannot help you**, post a question in the appropriate forum in the [Discussion Board](https://vle.shef.ac.uk/webapps/discussionboard/do/conference?toggle_mode=edit&action=list_forums&course_id=_107947_1&nav=discussion_board_entry&mode=cpview) on Blackboard. 
+* **If your demonstrator cannot help you**, post a question in the appropriate forum in the [Coding Questions Discussion Board]([https://vle.shef.ac.uk/webapps/discussionboard/do/conference?toggle_mode=edit&action=list_forums&course_id=_107947_1&nav=discussion_board_entry&mode=cpview](https://vle.shef.ac.uk/webapps/discussionboard/do/forum?action=list_threads&course_id=_107947_1&nav=discussion_board_entry&conf_id=_346815_1&forum_id=_343693_1)) on Blackboard. 
   
   However, *don't post large chunks of your project's code in the forum*. If your problem only involves one or two lines of code that aren't important, that is fine; or, you might be able to obfuscate the code to demonstrate the same problem, but without using code directly lifted from your project.
   
   If your problem involves large segments or involves the whole project, then leave your team number and ensure you've pushed everything to the main branch of your repository (along with a detailed explanation of the problem you're experiencing). We can then clone your code and try to replicate the issue ourselves. 
 
-* **Please don't email staff about technical issues directly.** Although staff email addresses are listed on Blackboard, they're only there as a *last resort*. It is highly unlikely that you won't get a response using one of the methods above.
+* **Please don't email staff about technical issues directly.** Although we make our email addresses available, they're only to be used as a *last resort*. It is highly unlikely that you won't get a response using one of the methods above.
 
 Naturally, when asking a question, help us to help you by including as much relevant information as possible. Screen shots are fine, but don't just post these without any context. If you don't provide all the information needed, we won't be able to resolve the issue.
 
@@ -75,7 +77,7 @@ It would seem that you haven't set your Codio project up in the correct way – 
 
 Note that you have to do this for every Codio project/box that you intend to run Sinatra projects with, including development and demonstration of your project.
 
-### When I try to run one of the examples from the lectures in the `code` directory of this repository, it crashes with an error.
+### When I try to run one of the examples from the lectures found in this repository, it crashes with an error.
 
 This is likely because you need to install the gems for the example first. In the terminal, ensure you have changed directory to the one containing the example, and type the following:
 
@@ -93,16 +95,17 @@ This is because Codio doesn't think you're logged into Codio on the web browser 
 
 First, open a tab and check you are indeed logged in. If you are, try clearing out your cookies in your browser settings, close and re-open your browser, log into Codio and try again. 
 
-Sometimes Codio's cookies, which track whether a user is logged in or not, are blocked by a browser's default privacy mechanisms. Here are my experiences (and remedies) with certain browsers:
+Sometimes Codio's cookies, which track whether a user is logged in or not, are blocked by a browser's default privacy mechanisms. Here are my experiences (and remedies) with certain browsers. Note that these are for Mac – your experience may differ!
 
 * **Brave** – doesn't work. Remedy: Go to your browser settings, and select "Privacy & Security". Then go to "Cookies and other site data". Under "Sites that can always use cookies", add `codio.com` and `codio.io` separately. Ensure the "Including third-party cookies on this site" checkbox is selected.  Now close and re-open your browser, and log back into Codio. 
 * **Chrome** – works fine.
+* **Edge** – works fine. 
 * **Firefox** – doesn't work. Remedy: Go to your browser settings, and select "Privacy & Security". Under "Enhanced Tracking Protection" click the "Manage Exceptions" button. Add `codio.com` and `codio.io`. Click "Save Changes". Now close and re-open your browser, and log back into Codio. 
 * **Safari** – works fine.
 
 Another reasons can be ad-blocking plugins that have been installed by you, the user. Try disabling these or making exceptions for the sites `codio.com` and `codio.io`. 
 
-If the issue persists, try using another browser for your Codio work (e.g., one in the list above that works). This is usually enough to resolve the problem – I've never found this issue to be a machine-specific problem. 
+If the issue persists, try using another browser for your Codio work (e.g., one in the list above that works). This is usually enough to resolve the issue – I've never found this issue to be a machine-specific problem. 
 
 ### When I run my web application or an example, Codio displays a "502 Bad Gateway" error instead of the proper web page.
 
@@ -149,7 +152,7 @@ You need the `sqlite3` gem installed as well. Make sure both the `sequel` and th
 
 Depending on how far through the lectures we are, we may not have encountered all of these, so don't worry about the ones you don't recognise (yet):
 
-* **Core gems** include `sinatra`, `puma` (the web server), `require_all` (for automatically "requiring" all Ruby files in a directory), `rubocop` (for coding standards and style checking). 
+* **Core gems** include `sinatra`, `puma` (the web server), `rerun` (which gives you the ability to restart the webserver when you change your code, so that you do not have to do it manually), `require_all` (for automatically "requiring" all Ruby files in a directory), `rubocop` (for coding standards and style checking). 
 
 * For the **database**, you'll need at least `sequel` and `sqlite3`. Don't forget the `sqlite3` gem, otherwise you'll get some confusing error messages.  
 
@@ -157,13 +160,13 @@ Depending on how far through the lectures we are, we may not have encountered al
 
 * For **code style checking**, you'll need `rubocop`. To extend style checking to RSpec and Sequel code, you'll also need `rubocop-rspec` and `rubocop-sequel` respectively.
 
-* For **testing**, you'll need at least `capybara` (for end-to-end tests), `rack-test`, `rspec`, and `simplecov` (for coverage tracking).
+* For **testing**, you'll need at least `capybara` (for end-to-end tests), `simplecov` (for coverage tracking), `rackup`, and `rspec`.
 
-Note that some of these gems may already be installed on a fresh Codio box. It's good practice to include them in your Gemfile regardless for development/deployment environments where they aren't.
+Note that some of these gems may already be installed on a fresh Codio box. In general, it's good practice to include them in your Gemfile regardless for development/deployment environments where they aren't.
 
-### When testing, my application seems to behave differently with Capybara compared to when it's being used for real. 
+### When testing, my application seems to behave differently compared to when it's being used for real. 
 
-This is often to do with differences between the "test" database and the "production" database. If certain data is not present in the test database, the application may behave differently. If you're experiencing some differing behaviour, the first thing you can check is the log files produced by Sequel. Check the queries are the same when the application is being run in "production" mode compared to when it is being tested.
+This is often to do with differences between the "test" database and the "development" database. If certain data is not present in the test database, the application may behave differently. If you're experiencing some differing behaviour, the first thing you can check is the log files produced by Sequel. Check the queries are the same when the application is being run in "production" mode compared to when it is being tested.
 
 ## 3. Problems with Git
 

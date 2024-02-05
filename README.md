@@ -29,11 +29,11 @@ Materials for the module can all be found in this repository, which consists of 
 |-:|-|-|-|-|-|
 |Pre   | | | [getting-started/](./getting-started/)|
 |1     | <ul><li>HTTP – a review</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul>| TBA | Not available yet| *No meeting* | |
-|2     | <ul><li>Forms</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Forms</li><li>Sessions</li></ul> | TBA | Not available yet| Catch-up | |
-|3     | <ul><li>Databases</li><li>Object Relational Mapping</li></ul> | TBA | Not available yet| Catch-up | |
-|4     | <ul><li>Testing</li><li>Debugging</li></ul> | TBA | Not available yet| Catch-up | |
-|5     | <ul><li>Refactoring</li><li>Security</li></ul> | TBA | Not available yet| Catch-up | |
-|6     | <ul><li>TBA</li></ul> | | Not available yet| Catch-up | |
+|2     | <ul><li>Forms</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Sessions</li></ul> | TBA | Not available yet| Catch-up | |
+|3     | <ul><li>Databases</li><li>Object Relational Mapping</li><li>Data Confidentiality</ul> | TBA | Not available yet| Catch-up | |
+|4     | <ul><li>Guest lecture: Matthew Valentine-House (Shopify) – **Coding Ruby for Fun and as a Full-Time Job**</li></ul> | TBA | Not available yet| Catch-up | |
+|5     | <ul><li>Why Write Automated Tests?</li><li>Using RSpec to Automate Unit and Integration Tests</li><li>Using Capybara with RSpec to Automate Acceptance Tests</li><li>Using Code Coverage as a Tool for Testing</li></ul> | TBA | Not available yet| Catch-up | |
+|6     | <ul><li>Debugging</li><li>Refactoring</li></ul> | TBA | Not available yet| Catch-up | |
 |7     | *No lecture* | *No session* | | Demo | Iteration 1 <br /> Fri 22 Mar, 15:00 |
 |Easter|
 |8     | *No lecture* | Team Project Help | | Catch-up | |
@@ -58,5 +58,7 @@ Where you go and where you sit depends on which team you're in:
 
 Each team will be allocated a supervisor (a member of the department's teaching staff). Each team will meet with their supervisor once a week, **starting in week 2 and finishing in week 11**. These meetings will happen on **Tuesday afternoons between 1-3pm in Computer Room 5** (formerly known as the Mindsphere lounge) on the ground floor of the Diamond. You only need to attend a 15-minute meeting in this two-hour block. The exact time of your team meetings and the seating plan is available [here](misc/CR5-seating-plan-supervisor-meeting.pdf). 
 
-There are two types of meetings – "Catch-up" and "Demo". During **"Catch-up" meetings**, supervisors will discuss with you how your project is going and check that all your team members are engaged with it. **Demo** meetings are where you will demonstrate your work to your supervisor. These meetings will happen in the week prior to handing in your work for iteration 1 and iteration 2. For the demo, your team will need its own device to showcase your work – or, you can use the  laptop loan facility.
+There are two types of meetings – "Catch-up" and "Demo". During **"Catch-up" meetings**, supervisors will discuss with you how your project is going and check that all your team members are engaged with it. **Demo** meetings are where you will demonstrate your work to your supervisor. These meetings will happen in the week prior to handing in your work for Iterations 1 and 2. For the demo, your team will need its own device to showcase your work – or, you can use the laptop loan facility.
+
+Note: your team supervisor will focus on monitoring your progress and teamwork, *not* providing technical advice on your project. Technical advice will be available (via the demonstrators) in the scheduled practical sessions listed above. 
 
