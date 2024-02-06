@@ -1,0 +1,21 @@
+<html>
+<head>
+  <title>Params example</title>
+</head>
+<body>
+  <h1>Params example</h1>
+  <p>The contents of the params hash are as follows:</p>
+  <table border="1">
+    <tr>
+      <th>Key</th>
+      <th>Value</th>
+    </tr>
+    <% params.each do |key, value| %>
+    <tr>
+      <td><%= key %></td>
+      <td><%= value %></td>
+    </tr>
+    <% end %>
+  </table>
+</body>
+</html>
