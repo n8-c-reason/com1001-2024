@@ -47,13 +47,13 @@ To run an example you'll need to change to the directory where it exists as a Ru
 
 To run an example, you will need to change to the directory of the example and then use the `sinatra` command, followed by the filename.
 
-For example, to run the `hello_world.rb` example in the ``getting_started``
+For example, to run the `hello_world.rb` example in the ``getting-started``
 directory, you would need to open a Terminal and enter the following commands:
 
 1) Change to the appropriate directory using the `cd` command:
 
 ```console
-cd com1001-2024/getting_started/
+cd com1001-2024/getting-started/
 ```
 
 If you type `ls` in this directory, you'll see there is one example called `hello_world_example`, so then type:
