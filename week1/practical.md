@@ -1,4 +1,4 @@
-# Week 1: Getting Everything Setup
+# Week 1 Practical: Getting Everything Setup
 
 We'll be using this session to ensure each individual and team has everything
 they need to get started on the team project. 
