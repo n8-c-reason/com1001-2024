@@ -157,5 +157,5 @@ etc.
 
 ## Task 4. 
 
-If you've not completed the "homework" (sent on Weds 7th Feb), you can 
+If you've not completed [week 1's challenges](./challenges.md)
 do these tasks with any time remaining in the class.
