@@ -4,8 +4,8 @@
    controller files (up to you). Each should be a profile page for an academic
    teaching COM1001, so `/phil`, `/donghwan` etc. 
 
-   Make a view for each route that has our name and profile picture in (you can
-   download our profile pictures from Blackboard, or the web).
+   Make a view for each route that has our name and profile picture in (our
+   profile pictures can be found in the `misc/` directory of this repository).
 
    b) Add a default route `/` to the app, with links to each profile page. When
    the app is launched, clicking this links will take the user to each profile page. 
@@ -15,7 +15,7 @@
    do not have to repeat the same HTML code for the header and footer in each
    view file?
 
-2. Change your app so that now there is just one generic route for a profile
+3. Change your app so that now there is just one generic route for a profile
    page that takes a parameter --- the person whose profile page it is. (For
    example `/profile?person="donghwan"`). The route sets the name and file for
    the profile picture and passes this to the view.
