@@ -14,7 +14,7 @@ You'll need to sit in your teams as per the seating plan for your room:
 
 Teams are organised into "zones". Each zone has a specific demonstrator
 according to the plan. **Your first task is to identify this person, and introduce
-your team to them.***
+your team to them.**
 
 ## Task 2. Ensure Everyone's Codio is Setup
 
