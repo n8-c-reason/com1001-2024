@@ -92,7 +92,7 @@ following steps:
 
     i. Invite your **supervisor** to your team. This is important, otherwise we
     will not be able to assess you! Your supervisor and their email address can
-    be found in the [../getting-started/0-2-project-intro.pdf](slides about the team project from the lecture in week 1).
+    be found in the [slides about the team project from the lecture in week 1](../getting-started/0-2-project-intro.pdf).
     Supervisors will check in on your team from time to time on Slack, just to
     check everyone's engaged and you're all getting along... To do this, click
     the "Add coworkers button", under the list of names to the left of the
