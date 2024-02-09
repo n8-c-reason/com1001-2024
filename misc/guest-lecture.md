@@ -4,7 +4,7 @@
 
 ### Speaker Biography
 
-Matt Valentine-House is a member of the Ruby Core team and a Senior Software
+**Matt Valentine-House** is a member of the Ruby Core team and a Senior Software
 Engineer at Shopify, one of the world's largest e-commerce platforms.
 
 He has been working professionally with Ruby since finishing University in 2007
