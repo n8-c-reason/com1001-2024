@@ -198,7 +198,7 @@ Furthermore, since the team project will be marked using Codio, everything needs
 
 ### I've heard it's possible to use VSCode on Codio. Is that true?
 
-Yes! See the [final section in the Gettings Started instructions](getting-started/README.md#using-vscode).
+Yes! See the [final section in the Getting Started instructions](getting-started/README.md#using-vscode).
 
 ### Is it possible to SSH into Codio, and therefore use my own machine to develop?
 
