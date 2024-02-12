@@ -20,7 +20,7 @@ get "/" do
     @age_error = "Please enter your age" unless @age.match?(/^(\d)+$/)
     @email_address_error = "Please enter a valid email address" unless @email_address.match?(/\A\S+@\S+\Z/)
 
-    unless @firstname_error.nil? && @surname_error.nil? && @age_error.nil? && @emailaddress_error.nil?
+    unless @firstname_error.nil? && @surname_error.nil? && @age_error.nil? && @email_address_error.nil?
       @submission_error = "Please correct the errors below"
     end
 
