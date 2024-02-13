@@ -1,0 +1,23 @@
+require: rubocop-rspec
+
+AllCops:
+  NewCops: enable
+
+Metrics/BlockLength:
+  AllowedMethods: ["describe"]
+
+RSpec/DescribeClass:
+  Enabled: false
+
+RSpec/MultipleExpectations:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/MixinUsage:
+  Exclude:
+    - "app.rb"
+
+Style/StringLiterals:
+  Enabled: false
