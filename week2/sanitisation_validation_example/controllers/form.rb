@@ -4,7 +4,7 @@ get "/" do
   @firstname_error = nil
   @surname_error = nil
   @age_error = nil
-  @emailaddress_error = nil
+  @email_address_error = nil
 
   # fetch each field from the @params hash (defaulting to
   # empty string if not present) and sanitise
