@@ -28,8 +28,8 @@ Materials for the module can all be found in this repository, which consists of 
 | Week | Lecture | Practical Session | Resources | Supervisor Meeting | Deadline |
 |-:|-|-|-|-|-|
 |Pre   | | | [getting-started/](./getting-started/) |
-|1     | <ul><li>HTTP – a review</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul>| [Getting everything setup](./week1/practical.md) | [week1/](./week1/) | *No meeting* | |
-|2     | <ul><li>Forms</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Sessions</li></ul> | TBA | [week2/](./week2/)| Catch-up | |
+|1     | <ul><li>HTTP – a review</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul>| [Getting everything setup](week1/practical.md) | [week1/](./week1/) | *No meeting* | |
+|2     | <ul><li>Forms</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Sessions</li></ul> | [Starting to Develop Your Team Web Application](week2/practical.md) | [week2/](./week2/)| Catch-up | |
 |3     | <ul><li>Databases</li><li>Object Relational Mapping</li><li>Data Confidentiality</ul> | TBA | Not available yet| Catch-up | |
 |4     | <ul><li>Guest lecture: **[An industry career in Ruby](./misc/guest-lecture.md)**, Matthew Valentine-House (Shopify)</li></ul> | TBA | Not available yet| Catch-up | |
 |5     | <ul><li>Why Write Automated Tests?</li><li>Using RSpec to Automate Unit and Integration Tests</li><li>Using Capybara with RSpec to Automate Acceptance Tests</li><li>Using Code Coverage as a Tool for Testing</li></ul> | TBA | Not available yet| Catch-up | |
