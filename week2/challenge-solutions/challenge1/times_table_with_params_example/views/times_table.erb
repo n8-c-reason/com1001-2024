@@ -1,0 +1,34 @@
+<html>
+<head>
+  <title>Times Table Calculator</title>
+</head>
+<body>
+  <h1>Times Table Calculator</h1>
+
+  <% unless @params_valid %>
+    <p><span style="color:red">Please correct the errors in the form below</span></p>
+  <% end %>
+
+  <form method="get">
+    <p>Multiplicand: <input type="text" name="m" value="<%= h params["m"] %>" />
+    <% unless @multiplicand_valid %> <br /> <span style="color:red">Invalid multiplicand</span> <% end %>
+    </p>
+    <p>Limit: <input type="text" name="l" value="<%= h params["l"] %>" />
+    <% unless @limit_valid %> <br /> <span style="color:red">Invalid limit</span> <% end %>
+    </p>
+    <p><input type="submit" value="Submit"/></p>
+  </form>
+
+  <% if @params_valid %>
+    <h2> <%= @multiplicand %> times table </h2>
+    <ul>
+    <% (1..@limit).each do |i| %>
+      <% result = i * @multiplicand %>
+      <li>
+        <%= i %> times <%= @multiplicand %> = <%= result %>
+      </li>
+    <% end %>
+    </ul>
+  <% end %>
+</body>
+</html>

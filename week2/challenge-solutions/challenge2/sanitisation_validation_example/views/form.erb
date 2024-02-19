@@ -1,0 +1,71 @@
+<html>
+  <head>
+    <title>Form Submission Example</title>
+    <link rel="stylesheet" href="style/style.css">    
+  </head>
+  <body>
+  <% if !@form_was_submitted || @submission_error %> 
+    <h1>Please enter your personal information:</h1>
+  <% end %>
+  <% if @form_was_submitted %>
+    <% if @submission_error %>
+      <p><strong class="error">Please correct the errors below</strong></p>
+    <% else %>
+      <h1 class="success">Success, thanks for your submission!</h1>        
+      <p><strong>Salutation:</strong> <%= h @salutation_options[@salutation] %> </p>
+      <p><strong>First name:</strong> <%= h @firstname %> </p>
+      <p><strong>Surname:</strong> <%= h @surname %> </p>
+      <p><strong>Age:</strong> <%= h @age %> </p>
+      <p><strong>Email address:</strong> <%= h @email_address %> </p>
+      <p><strong>Receive further correspondance:</strong> <% if @correspondance == "on" %> yes <% else %> no <% end %> </p>
+    <% end %>
+  <% end %>
+  <% if !@form_was_submitted || @submission_error %> 
+  <form>
+    <p> 
+      Salutation: 
+      <select name="salutation">
+        <% @salutation_options.each do |key, value| %>
+          <option value="<%= key %>" <% if @salutation == key %> selected="selected" <% end %>><%= value %></option>
+        <% end %>
+      </select> 
+      <% if !@salutation_error.nil? %>
+        <br /><strong class="error"><%= @salutation_error %></strong>
+      <% end %>
+    </p> 
+    <p>
+      First name: <input type="text" name="firstname" value="<%= h @firstname %>" />
+      <% if !@firstname_error.nil? %>
+        <br /><strong class="error"><%= @firstname_error %></strong>
+      <% end %>
+    </p>
+    <p>
+      Surname: <input type="text" name="surname" value="<%= h @surname %>" />
+      <% if !@surname_error.nil? %>
+        <br /><strong class="error"><%= @surname_error %></strong>
+      <% end %>
+    </p>
+    <p>
+      Age: <input type="text" name="age" value="<%= h @age %>" />
+      <% if !@age_error.nil? %>
+        <br /><strong class="error"><%= @age_error %></strong>
+      <% end %>
+    </p>
+    <p>
+      Email address: <input type="text" name="email_address" value="<%= h @email_address %>" />
+      <% if !@email_address_error.nil? %>
+        <br /><strong class="error"><%= @email_address_error %></strong>
+      <% end %>
+    </p>      
+    <p>
+      Agree to receive further correspondance by email: 
+      <input type="checkbox" name="correspondance" <% if @correspondance == "on" %> checked="on" <% end %>/>
+      <% if !@correspondance_error.nil? %>
+        <br /><strong class="error"><%= @correspondance_error %></strong>
+      <% end %>      
+    </p>
+    <p><input type="submit" value="Submit"></p>
+  </form>
+  <% end %>
+  </body>
+</html>
