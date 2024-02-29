@@ -1,12 +1,10 @@
 # Guest Lecture: Matthew Valentine-House (Shopify) <br /> "A Career in Ruby"
 
-<img src="https://github.com/UoS-COM1001/com1001-2024/assets/7812293/556ba162-cabb-4637-bd37-004b24ae52e4" width="200" /> 
-
-&nbsp; <br /> &nbsp;
-
 [**See the slides for this talk**](./guest-lecture.pdf). 
 
 ### Speaker Biography
+
+<img src="https://github.com/UoS-COM1001/com1001-2024/assets/7812293/556ba162-cabb-4637-bd37-004b24ae52e4" width="100" align="left" /> 
 
 **Matt Valentine-House** is a member of the Ruby Core team and a Senior Software
 Engineer at Shopify, one of the world's largest e-commerce platforms.
