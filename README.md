@@ -31,7 +31,7 @@ Materials for the module can all be found in this repository, which consists of 
 |1     | <ul><li>HTTP – a review</li><li>An Introduction to Sinatra</li><li>Controllers</li><li>Views</li><li>Queries</li></ul>| [Getting everything setup](week1/practical.md) | [week1/](./week1/) | *No meeting* | |
 |2     | <ul><li>Forms</li><li>Sanitisation & Validation</li><li>GET and POST</li><li>Sessions</li></ul> | [Starting to Develop Your Team Web Application](week2/practical.md) | [week2/](./week2/)| Catch-up | |
 |3     | <ul><li>Databases</li><li>Object Relational Mapping</li><li>Data Confidentiality</ul> | [Databases & Models](week3/practical.md) | [week3/](./week3/) | Catch-up | |
-|4     | <ul><li>Guest lecture: **[A Career in Ruby](./week4/guest-lecture.md)**, Matthew Valentine-House (Shopify)</li></ul> | TBA | [week4/](./week4/) | Catch-up | |
+|4     | <ul><li>Guest lecture: **[A Career in Ruby](./week4/guest-lecture.md)**, Matthew Valentine-House (Shopify)</li></ul> | [Queries and Forms](week4/practical.md) | [week4/](./week4/) | Catch-up | |
 |5     | <ul><li>Why Write Automated Tests?</li><li>Using RSpec to Automate Unit and Integration Tests</li><li>Using Capybara with RSpec to Automate Acceptance Tests</li><li>Using Code Coverage as a Tool for Testing</li></ul> | TBA | Not available yet| Catch-up | |
 |6     | <ul><li>Debugging</li><li>Refactoring</li></ul> | TBA | Not available yet| Catch-up | |
 |7     | *No lecture* | *No session* | | Demo | Iteration 1 <br /> Fri 22 Mar, 15:00 |
