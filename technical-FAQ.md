@@ -178,7 +178,7 @@ To set up your SSH keys, sign into Codio, then click your username in the bottom
 
 Other possible reasons:
 
-* You're team number is 1-9 and you're not using a zero before your team number in the `git clone` commmand. Your repository uses two digit team numbers, so `01`, `02`, etc.
+* Your team number is 1-9 and you're not using a zero before your team number in the `git clone` commmand. Your repository uses two digit team numbers, so `01`, `02`, etc.
 
 * You're trying to clone another team's repository. Check your team number!
 
