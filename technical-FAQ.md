@@ -160,7 +160,7 @@ Depending on how far through the lectures we are, we may not have encountered al
 
 * For **code style checking**, you'll need `rubocop`. To extend style checking to RSpec and Sequel code, you'll also need `rubocop-rspec` and `rubocop-sequel` respectively.
 
-* For **testing**, you'll need at least `capybara` (for end-to-end tests), `simplecov` (for coverage tracking), `rackup`, and `rspec`.
+* For **testing**, you'll need at least `capybara` (for acceptance tests), `simplecov` (for coverage tracking), `rackup`, and `rspec`.
 
 Note that some of these gems may already be installed on a fresh Codio box. In general, it's good practice to include them in your Gemfile regardless for development/deployment environments where they aren't.
 
