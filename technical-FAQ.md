@@ -120,7 +120,7 @@ This is a tedious thing to have to keep doing during development! So I recommend
 To do this prefix the `sinatra` command with `rerun`, for example as follows:
 
 ```
-rerun sinatra hello-world
+rerun sinatra hello_world
 ```
 
 The rerun facility will keep checking for changes to your Ruby files and reload them when you make changes, meaning that you do not have to keep stopping and restarting the web server each time you make a change to your project.
@@ -160,7 +160,7 @@ Depending on how far through the lectures we are, we may not have encountered al
 
 * For **code style checking**, you'll need `rubocop`. To extend style checking to RSpec and Sequel code, you'll also need `rubocop-rspec` and `rubocop-sequel` respectively.
 
-* For **testing**, you'll need at least `capybara` (for end-to-end tests), `simplecov` (for coverage tracking), `rackup`, and `rspec`.
+* For **testing**, you'll need at least `capybara` (for acceptance tests), `simplecov` (for coverage tracking), `rackup`, and `rspec`.
 
 Note that some of these gems may already be installed on a fresh Codio box. In general, it's good practice to include them in your Gemfile regardless for development/deployment environments where they aren't.
 
@@ -172,13 +172,13 @@ This is often to do with differences between the "test" database and the "develo
 
 ### I cannot clone my team's repository.
 
-This is because GitLab uses SSH keys to authenticate you rather than passwords. If you're being asked for your password, it's probably because you did not set up GitLab with your Codio SSH keys last semester. That is, you didn't complete both parts of Unit 8, which is about Git. I'd strongly recommend you go back and do both of these units, because Git is very important this semester.
+GitLab uses SSH keys to authenticate you rather than passwords. If you're getting errors or are being asked for your password when you try to clone your team's repository, it's probably because you did not set up GitLab with your Codio SSH keys last semester. That is, you didn't complete both parts of Unit 8, which is about Git. I'd strongly recommend you go back and do both of these units, because Git is very important this semester.
 
-To set up your SSH keys, sign into Codio, then click your username in the bottom left profile. Under "My Account", there should be a menu item called "SSH Keys". If you click this link, you'll be taken to a page with a grey box at the top, with your public SSH key in it. Ensure that you select and copy the entire contents of this box (and *only* the contents of the box). Now, log into Gitlab (https://git.shefcompsci.org). Click the icon in the top right of the page to reveal a drop-down box, and select "Preferences". Select "SSH Keys" from the sidebar that appears. In the big text box that appears, paste your SSH key. In the title box, enter "Codio". Then click the "Add key" button.
+To set up your SSH keys, sign into Codio, then click your username in the bottom left profile. Under "My Account", there should be a menu item called "SSH Keys". If you click this link, you'll be taken to a page with a grey box at the top, with your public SSH key in it. Ensure that you select and copy the entire contents of this box (and *only* the contents of the box). Now, log into GitLab (https://git.shefcompsci.org). Click the icon in the top right of the page to reveal a drop-down box, and select "Preferences". Select "SSH Keys" from the sidebar that appears. In the big text box that appears, paste your SSH key. In the title box, enter "Codio". Then click the "Add key" button.
 
 Other possible reasons:
 
-* You're team number is 1-9 and you're not using a zero before your team number in the `git clone` commmand. Your repository uses two digit team numbers, so `01`, `02`, etc.
+* Your team number is 1-9 and you're not using a zero before your team number in the `git clone` commmand. Your repository uses two digit team numbers, so `01`, `02`, etc.
 
 * You're trying to clone another team's repository. Check your team number!
 
@@ -200,6 +200,3 @@ Furthermore, since the team project will be marked using Codio, everything needs
 
 Yes! See the [final section in the Getting Started instructions](getting-started/README.md#using-vscode).
 
-### Is it possible to SSH into Codio, and therefore use my own machine to develop?
-
-Yes, but it's potentially tricky to setup.  SSHing into your Codio box from your text editor/IDE on your own machine gives you the best of both worlds — the use of your preferred development environment, but with the ease of Ruby already being set up for you on Codio, and you using the same platform as everyone else. However, you will need to navigate the instructions for doing this yourself — again, we are unable to provide assistance. See https://docs.codio.com/common/develop/ide/boxes/access.html. Instructions for your text editor/IDE vary of course, depending on what you're using — here are some useful pointers for VSCode, as an example: https://code.visualstudio.com/docs/remote/ssh.

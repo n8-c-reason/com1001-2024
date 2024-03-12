@@ -1,0 +1,43 @@
+require:
+  - rubocop-rspec
+  - rubocop-sequel
+
+AllCops:
+  NewCops: enable
+
+Metrics/AbcSize:
+  AllowedMethods: ["load", "validate"]
+
+Metrics/BlockLength:
+  AllowedMethods: ["describe", "context"]
+
+Metrics/CyclomaticComplexity:
+  AllowedMethods: ["load", "validate"]
+
+Metrics/PerceivedComplexity:
+  AllowedMethods: ["load", "validate"]
+
+Metrics/ParameterLists:
+  Enabled: false
+
+RSpec/ContextWording:
+  Enabled: false
+
+RSpec/DescribeClass:
+  Enabled: false
+
+RSpec/MultipleExpectations:
+  Enabled: false
+
+RSpec/ExampleLength:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
+
+Style/MixinUsage:
+  Exclude:
+    - "app.rb"
+
+Style/StringLiterals:
+  Enabled: false
